@@ -1,0 +1,33 @@
+						        Qual rota jogar e qual meu papel?
+				|			|				|				|
+			 estilo == tank		estilo == assassino		 estilo == atirador		estilo == suporte
+				|		  	|			  	|      	   			|
+
+			Recomendado rota	 Recomendado rota		Recomendado rota		Recomendado rota
+			   superior			meio			    inferior			    inferior
+
+					   |								|
+				gosta_do_estilo == sim						gosta_do_estilo == nao
+					   |
+				    jogue na rota $1
+				    com estilo $2
+
+				-----------------------
+									Veja outra posição
+									que se encaixa
+				|				|				|				|
+		      media de abates == alto	   media de abates == baixo		media de abates == alto		media de mortes == alto
+		      media de mortes == baixo     media de assistencias == alto	media de mortes == alto		media de assistencia == alto
+				|				|				|				|
+		Estilo assassino		Estilo suporte			  Estilo atirador		  Estilo tank
+		|		|		|		  |		|		|		|			|
+	mata_por_luta >= 2		   numero_de_assistencias >= 3	   mata_por_luta >= 2		  morre == nao		    
+	morre == sim			   morre == nao			   morre == nao			  protege_o_time == sim
+			mata_por_luta >= 2			morto_do_time <= 3	   mata_por_luta >= 3			morre == sim
+			morre == nao				morre == sim		   morre == sim				protege_o_time == sim
+
+Rota $1 e	     Rota $1 e		Rota $1 e	     Rota $1 e	    Rota $1 e ótimo   		  Rota $1 e ótimo       Rota $1 e ótimo
+um assassino	     um ótimo 		ótimo suporte	     ótimo suporte   atirador			  tank			tank
+aceitável            assassino
+											   Rota $1 e um atirador
+											   aceitável
