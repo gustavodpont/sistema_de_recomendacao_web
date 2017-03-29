@@ -15,7 +15,7 @@
 		(test (eq ?morre "nao"))
 	)
 =>
-(printout t "Rota x e um assassino otimo" crlf)
+(printout t "Recomendado rota x e um assassino otimo" crlf)
 )
 
 (defrule assassino_aceitavel
@@ -26,7 +26,7 @@
 		(test (eq ?morre "sim"))
 	)
 =>
-(printout t "Rota x e um assassino aceitavel" crlf)
+(printout t "Recomendado rota x e um assassino aceitavel" crlf)
 )
 
 (defrule suporte_otimo
@@ -44,7 +44,7 @@
 		)
 	)
 =>
-(printout t "Rota x e um suporte otimo" crlf)
+(printout t "Recomendado rota x e um suporte otimo" crlf)
 )
 
 (defrule atirador_otimo
@@ -55,7 +55,7 @@
 		(test (eq ?morre "nao"))
 	)
 =>
-(printout t "Rota x e um atirador otimo" crlf)
+(printout t "Recomendado rota x e um atirador otimo" crlf)
 )
 
 (defrule atirador_aceitavel
@@ -66,37 +66,37 @@
 		(test (eq ?morre "sim"))
 	)
 =>
-(printout t "Rota x e um atirador aceitavel" crlf)
+(printout t "Recomendado rota x e um atirador aceitavel" crlf)
 )
 
 (defrule tank_otimo
-	(jogador (mata_por_luta ?abates))
+	(jogador (protege_o_time ?protege))
 	(jogador (morre ?morre))
 	(and 
-		(test (>= ?abates 2))
+		(test (eq ?protege "sim"))
 		(test (eq ?morre "nao"))
 	)
 =>
-(printout t "Rota x e um tank otimo" crlf)
+(printout t "Recomendado rota x e um tank otimo" crlf)
 )
 
 (defrule tank_aceitavel
-	(jogador (mata_por_luta ?abates))
+	(jogador (protege_o_time ?protege))
 	(jogador (morre ?morre))
 	(and 
-		(test (>= ?abates 3))
+		(test (eq ?protege "sim"))
 		(test (eq ?morre "sim"))
 	)
 =>
-(printout t "Rota x e um tank aceitavel" crlf)
+(printout t "Recomendado rota x e um tank aceitavel" crlf)
 )
 
 (deffacts jogador "alguma coisa" 
 	(jogador
 		(estilo "assassino")
 		(gosta_do_estilo "sim")
-		(mata_por_luta 2)
-		(morre "sim")
+		(mata_por_luta 3)
+		(morre "nao")
 		(numero_de_assistencias 3)
 		(mortos_do_time 3)
 		(protege_o_time "sim")
