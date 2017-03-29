@@ -35,16 +35,60 @@
 	(jogador (morre ?morre))
 	(or 
 		(and
-			( test (>= ?assist 3))
+			(test (>= ?assist 3))
 			(test (eq ?morre "nao"))
 		)
 		(and 
-			( test (<= ?mortos 3))
+			(test (<= ?mortos 3))
 			(test (eq ?morre "sim"))
 		)
 	)
 =>
 (printout t "Rota x e um suporte otimo" crlf)
+)
+
+(defrule atirador_otimo
+	(jogador (mata_por_luta ?abates))
+	(jogador (morre ?morre))
+	(and 
+		(test (>= ?abates 2))
+		(test (eq ?morre "nao"))
+	)
+=>
+(printout t "Rota x e um atirador otimo" crlf)
+)
+
+(defrule atirador_aceitavel
+	(jogador (mata_por_luta ?abates))
+	(jogador (morre ?morre))
+	(and 
+		(test (>= ?abates 3))
+		(test (eq ?morre "sim"))
+	)
+=>
+(printout t "Rota x e um atirador aceitavel" crlf)
+)
+
+(defrule tank_otimo
+	(jogador (mata_por_luta ?abates))
+	(jogador (morre ?morre))
+	(and 
+		(test (>= ?abates 2))
+		(test (eq ?morre "nao"))
+	)
+=>
+(printout t "Rota x e um tank otimo" crlf)
+)
+
+(defrule tank_aceitavel
+	(jogador (mata_por_luta ?abates))
+	(jogador (morre ?morre))
+	(and 
+		(test (>= ?abates 3))
+		(test (eq ?morre "sim"))
+	)
+=>
+(printout t "Rota x e um tank aceitavel" crlf)
 )
 
 (deffacts jogador "alguma coisa" 
