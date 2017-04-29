@@ -37,7 +37,40 @@
         </nav>
 
         <div class="container">
+            <form class="form-inline" id="filtro">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="form-group">
+                            <label for="finalidade">Finalidade:</label>
+                            <select class="form-control" id="finalidade">
+                                <option>Trabalho</option>
+                                <option>Gammer</option>
+                            </select>
+                        </div>
 
+                        <div class="form-group">
+                            <label for="valor">Valor:</label>
+                            <select class="form-control" id="valor">
+                                <option>Menos de 1200</option>
+                                <option>Entre 1200 e 2000</option>
+                                <option>Mais de 2000</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="hd">Tipo de HD:</label>
+                            <select class="form-control" id="hd">
+                                <option>SSD</option>
+                                <option>HD SATA</option>
+                            </select>
+                        </div>
+
+                        <button type="button" class="btn btn-danger">Buscar</button>
+                    </div>
+
+                </div>
+            </form>
+            <hr>
             <div class="row">
 
                 <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
@@ -71,7 +104,7 @@
                             <img src="img/pessoal_001.jpg" class="img-responsive" style="width: 100%" alt="Image">
                         </div>
                         <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Uso Pessoal </li>
+                            <li class="list-group-item"><i class="icon-ok text-success"></i> PC Trabalho </li>
                             <li class="list-group-item"><i class="icon-ok text-success"></i> Jog</li>
                             <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
                         </ul>
@@ -81,7 +114,7 @@
                     </div>
 
                 </div>
-                
+
                 <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
 
                     <div class="panel price panel-white">
@@ -92,7 +125,7 @@
                             <img src="img/pessoal_001.jpg" class="img-responsive" style="width: 100%" alt="Image">
                         </div>
                         <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Uso Pessoal </li>
+                            <li class="list-group-item"><i class="icon-ok text-success"></i> PC Trabalho </li>
                             <li class="list-group-item"><i class="icon-ok text-success"></i> Jog</li>
                             <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
                         </ul>
@@ -107,8 +140,13 @@
 
         </div>
 
-        <?php
-        // put your code here
-        ?>
+        <footer class="container-fluid text-center">
+            <p>Loja Virtual Copyright</p>  
+            <form class="form-inline" id="cadastro">Receber Novidades:
+                <input type="email" class="form-control" size="50" placeholder="Email" id="email">
+                <button type="button" class="btn btn-danger">Cadastrar</button>
+            </form>
+        </footer>
+
     </body>
 </html>
