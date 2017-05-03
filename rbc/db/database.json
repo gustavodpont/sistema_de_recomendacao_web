@@ -1,25 +1,41 @@
 [{
 	"nome": "Computador 001",
-	"palcamae": "Placa Mãe 001",
+	"palcamae": "Placa MÃ£e 001",
 	"placavideo": "Placa Video 001",
 	"hardrive": "SSD",
 	"finalidade": "Gammer",
 	"processador": "Intel i3 6th",
-	"memoria": "8GB"
+	"memoria": "8GB",
+        "url": "img/gammer_001.jpg",
+        "preco": "R$ 2.249,90"
 }, {
 	"nome": "Computador 002",
-	"palcamae": "Placa Mãe 002",
+	"palcamae": "Placa MÃ£e 002",
 	"placavideo": "Placa Video 002",
 	"hardrive": "HD Sata",
 	"finalidade": "trabalho",
 	"processador": "Intel i3 6th",
-	"memoria": "4GB"
+	"memoria": "4GB",
+        "url": "img/pessoal_001.jpg",
+        "preco": "R$ 2.249,90"
 }, {
 	"nome": "Computador 003",
-	"palcamae": "Placa Mãe 001",
+	"palcamae": "Placa MÃ£e 001",
 	"placavideo": "Placa Video 003",
 	"hardrive": "SSD",
 	"finalidade": "Gammer",
 	"processador": "Intel i7 6th",
-	"memoria": "32GB"
+        "url": "img/gammer_001.jpg",
+	"memoria": "32GB",
+        "preco": "R$ 2.249,90"
+}, {
+	"nome": "Computador 003",
+	"palcamae": "Placa MÃ£e 001",
+	"placavideo": "Placa Video 003",
+	"hardrive": "SSD",
+	"finalidade": "Gammer",
+	"processador": "Intel i7 6th",
+        "url": "img/gammer_001.jpg",
+	"memoria": "32GB",
+        "preco": "R$ 2.249,90"
 }]
