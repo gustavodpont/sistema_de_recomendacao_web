@@ -1,0 +1,25 @@
+[{
+	"nome": "Computador 001",
+	"palcamae": "Placa Mãe 001",
+	"placavideo": "Placa Video 001",
+	"hardrive": "SSD",
+	"finalidade": "Gammer",
+	"processador": "Intel i3 6th",
+	"memoria": "8GB"
+}, {
+	"nome": "Computador 002",
+	"palcamae": "Placa Mãe 002",
+	"placavideo": "Placa Video 002",
+	"hardrive": "HD Sata",
+	"finalidade": "trabalho",
+	"processador": "Intel i3 6th",
+	"memoria": "4GB"
+}, {
+	"nome": "Computador 003",
+	"palcamae": "Placa Mãe 001",
+	"placavideo": "Placa Video 003",
+	"hardrive": "SSD",
+	"finalidade": "Gammer",
+	"processador": "Intel i7 6th",
+	"memoria": "32GB"
+}]
