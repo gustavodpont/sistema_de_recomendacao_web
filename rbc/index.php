@@ -43,6 +43,7 @@
                         <div class="form-group">
                             <label for="finalidade">Finalidade:</label>
                             <select class="form-control" id="finalidade">
+                                <option>Selecione uma finalidade...</option>
                                 <option>Trabalho</option>
                                 <option>Gammer</option>
                             </select>
@@ -50,16 +51,13 @@
 
                         <div class="form-group">
                             <label for="valor">Valor:</label>
-                            <select class="form-control" id="valor">
-                                <option>Menos de 1200</option>
-                                <option>Entre 1200 e 2000</option>
-                                <option>Mais de 2000</option>
-                            </select>
+                            <input class="form-control" id="valor" placeholder="Informe uma faixa de preço">
                         </div>
 
                         <div class="form-group">
                             <label for="hd">Tipo de HD:</label>
                             <select class="form-control" id="hd">
+                                <option>Selecione um tipo..</option>
                                 <option>SSD</option>
                                 <option>HD SATA</option>
                             </select>
@@ -71,7 +69,7 @@
                 </div>
             </form>
             <hr>
-            <div class="row">
+            <div class="row" id='resultado-busca'>
 
                 <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
 
@@ -137,9 +135,38 @@
                 </div>
 
             </div>
+            <hr>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+                    <h3>Ultimos Vistos</h3>
+                </div>
+            </div>
+            <hr>
+            <div class="row" id='ultimos-visto'>
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+
+                    <div class="panel price panel-white">
+                        <div class="panel-heading arrow_box text-center">
+                            <h3>Computador Pessoal</h3>
+                        </div>
+                        <div class="panel-body">
+                            <img src="img/pessoal_001.jpg" class="img-responsive" style="width: 100%" alt="Image">
+                        </div>
+                        <ul class="list-group list-group-flush text-center">
+                            <li class="list-group-item"><i class="icon-ok text-success"></i> PC Trabalho </li>
+                            <li class="list-group-item"><i class="icon-ok text-success"></i> Jog</li>
+                            <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
+                        </ul>
+                        <div class="panel-footer">
+                            <a class="btn btn-lg btn-block btn-default" href="#">Comprar</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
 
         </div>
-
+        <hr>
         <footer class="container-fluid text-center">
             <p>Loja Virtual Copyright</p>  
             <form class="form-inline" id="cadastro">Receber Novidades:
