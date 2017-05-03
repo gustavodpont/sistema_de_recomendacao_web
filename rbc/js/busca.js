@@ -33,20 +33,21 @@ var atualizaBusca = function () {
             var body = $('<div class="panel-body"><img src="' + value.url + '" class="img-responsive" style="width: 100%" alt="' + value.nome + '"></div>');
             
             var listUl = $('<ul class="list-group list-group-flush text-center"></ul>');
-            var liFinalidade = $('<li class="list-group-item"><i class="icon-ok text-success"></i>' + value.finalidade + '</li>');
-            var liHardrive = $('<li class="list-group-item"><i class="icon-ok text-success"></i>' + value.hardrive + '</li>');
-            var liMemoria = $('<li class="list-group-item"><i class="icon-ok text-success"></i>' + value.memoria + '</li>');
-            var liMae = $('<li class="list-group-item"><i class="icon-ok text-success"></i>' + value.placamae + '</li>');
-            var liVideo = $('<li class="list-group-item"><i class="icon-ok text-success"></i>' + value.placavideo + '</li>');
-            var liProcessador = $('<li class="list-group-item"><i class="icon-ok text-success"></i>' + value.processador + '</li>');
+            var liFinalidade = $('<li class="list-group-item"><i class="icon-ok text-success"></i>Finalidade: ' + value.finalidade + '</li>');
+            var liHardrive = $('<li class="list-group-item"><i class="icon-ok text-success"></i>HD: ' + value.hardrive + '</li>');
+            var liMemoria = $('<li class="list-group-item"><i class="icon-ok text-success"></i>Memoria RAM: ' + value.memoria + '</li>');
+            var liMae = $('<li class="list-group-item"><i class="icon-ok text-success"></i>Placa Mãe: ' + value.placamae + '</li>');
+            var liVideo = $('<li class="list-group-item"><i class="icon-ok text-success"></i>Placa de Video: ' + value.placavideo + '</li>');
+            var liProcessador = $('<li class="list-group-item"><i class="icon-ok text-success"></i>Processador: ' + value.processador + '</li>');
             var liPreco= $('<li class="list-group-item"><i class="icon-ok text-success"></i>' + value.preco + '</li>');
             
             listUl.append(liFinalidade);
+            listUl.append(liMae);
             listUl.append(liHardrive);
             listUl.append(liMemoria);
-            listUl.append(liMae);
             listUl.append(liVideo);
             listUl.append(liProcessador);
+            listUl.append(liPreco);
             
             var footer = $('<div class="panel-footer"><a class="btn btn-lg btn-block btn-danger" href="#">Comprar</a></div>');
             

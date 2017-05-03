@@ -68,74 +68,15 @@
 
                 </div>
             </form>
+            
             <hr>
+            
             <div class="row" id='resultado-busca'>
 
-                <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
-
-                    <div class="panel price panel-red">
-                        <div class="panel-heading arrow_box text-center">
-                            <h3>Computador Gammer</h3>
-                        </div>
-                        <div class="panel-body">
-                            <img src="img/gammer_001.jpg" class="img-responsive" style="width: 100%" alt="Image">
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> PC Gammer</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-danger" href="#">Comprar</a>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
-
-                    <div class="panel price panel-white">
-                        <div class="panel-heading arrow_box text-center">
-                            <h3>Computador Pessoal</h3>
-                        </div>
-                        <div class="panel-body">
-                            <img src="img/pessoal_001.jpg" class="img-responsive" style="width: 100%" alt="Image">
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> PC Trabalho </li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Jog</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-default" href="#">Comprar</a>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
-
-                    <div class="panel price panel-white">
-                        <div class="panel-heading arrow_box text-center">
-                            <h3>Computador Pessoal</h3>
-                        </div>
-                        <div class="panel-body">
-                            <img src="img/pessoal_001.jpg" class="img-responsive" style="width: 100%" alt="Image">
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> PC Trabalho </li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Jog</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-default" href="#">Comprar</a>
-                        </div>
-                    </div>
-
-                </div>
-
             </div>
+            
             <hr>
+            
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
                     <h3>Ultimos Vistos</h3>
