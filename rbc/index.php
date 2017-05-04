@@ -59,7 +59,7 @@
                             <select class="form-control" id="hd">
                                 <option>Selecione um tipo..</option>
                                 <option>SSD</option>
-                                <option>HD SATA</option>
+                                <option>SATA</option>
                             </select>
                         </div>
 

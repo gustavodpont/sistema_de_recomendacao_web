@@ -3,89 +3,107 @@
 	"placamae": "Fatal1ty B150 Gaming K4/Hyper",
 	"placavideo": "Geforce® Gtx 1070",
 	"hardrive": "SSD 240GB, HD 1TB SATA",
+	"hd": "SSD",
 	"finalidade": "Gammer",
 	"processador": "Intel Core I7 6700k",
 	"memoria": "32GB",
-        "url": "img/19703110_1SZ.jpg",
-        "preco": "R$ 11.110,40"
+    "url": "img/19703110_1SZ.jpg",
+    "preco": "R$ 11.110,40",
+    "_preco": 11110.40
 }, {
 	"nome": "Computador Cce C23",
 	"placamae": "Não especificado",
 	"placavideo": "Sem Placa Video",
 	"hardrive": "Sata 320GB",
+	"hd": "SATA",
 	"finalidade": "Trabalho",
 	"processador": "Intel Celeron 847",
 	"memoria": "2GB",
-        "url": "img/15786828_1SZ.jpg",
-        "preco": "R$ 639,99"
+    "url": "img/15786828_1SZ.jpg",
+    "preco": "R$ 639,99",
+    "_preco": 639.99
 }, {
 	"nome": "Computador Premium Business",
 	"placamae": "Padrao Premium H61",
 	"placavideo": "Sem Placa de Video",
 	"hardrive": "SATA 320GB",
+	"hd": "SATA",
 	"finalidade": "Trabalho",
 	"processador": "Intel Core I3-1155",
-        "url": "img/21201449_1SZ.jpg",
+    "url": "img/21201449_1SZ.jpg",
 	"memoria": "4GB",
-        "preco": "R$ 1.099,00"
+    "preco": "R$ 1.099,00",
+    "_preco": 1099.00
 }, {
 	"nome": "Computador Neologic",
 	"placamae": "Placa Mãe - Não especificado",
 	"placavideo": "Sem Placa de Video",
 	"hardrive": "SATA 1TB",
+	"hd": "SATA",
 	"finalidade": "Trabalho",
 	"processador": "Intel J1800 Dual Core",
-        "url": "img/9966124_1GG.jpg",
+    "url": "img/9966124_1GG.jpg",
 	"memoria": "8GB",
-        "preco": "R$ 1.450,00"
+    "preco": "R$ 1.450,00",
+    "_preco": 1450.00
 }, {
 	"nome": "Computador 3Green Gamer",
 	"placamae": "Gigabyte Ga-H110m-H",
 	"placavideo": "Nvidia Gtx 1080 Ddr5 8gb 256bits",
 	"hardrive": "SSD 240GB, HD 1TB SATA",
+	"hd": "SSD",
 	"finalidade": "Gammer",
 	"processador": "Intel® Core™ I7-7700",
-        "url": "img/20723095_2SZ.jpg",
+    "url": "img/20723095_2SZ.jpg",
 	"memoria": "16GB",
-        "preco": "R$ 6.900,00"
+    "preco": "R$ 6.900,00",
+    "_preco": 6900.00
 }, {
 	"nome": "Computador Neologic Moba Box",
 	"placamae": "H110m Lga 1151",
 	"placavideo": "Geforce Gtx 950 2gb",
 	"hardrive": "SSD 120GB",
+	"hd": "SSD",
 	"finalidade": "Gammer",
 	"processador": "Intel® Skylake I3-6100 3.7ghz",
-        "url": "img/15645112_1SZ.jpg",
+    "url": "img/15645112_1SZ.jpg",
 	"memoria": "8GB",
-        "preco": "R$ 2.249,90"
+    "preco": "R$ 2.249,90",
+    "_preco": 2249.90
 }, {
 	"nome": "Computador + Monitor 19,5",
 	"placamae": "Asrock D1800b-Itx",
 	"placavideo": "Sem Placa de Video",
 	"hardrive": "SATA 1TB",
+	"hd": "SATA",
 	"finalidade": "Trabalho",
 	"processador": "Intel Dual Core J1800 2.41ghz",
-        "url": "img/17535207_1SZ.jpg",
+    "url": "img/17535207_1SZ.jpg",
 	"memoria": "8GB",
-        "preco": "R$ 1.569,99"
+    "preco": "R$ 1.569,99",
+    "_preco": 1569.99
 }, {
 	"nome": "Microcomputador Desktop Evus",
 	"placamae": "Não especificado",
 	"placavideo": "Sem Placa de Video",
 	"hardrive": "SATA 320GB",
+	"hd": "SATA",
 	"finalidade": "Trabalho",
 	"processador": "Celeron Dual Core 2.41ghz",
-        "url": "img/16098041SZ.jpg",
+    "url": "img/16098041SZ.jpg",
 	"memoria": "4GB",
-        "preco": "R$ 799,00"
+    "preco": "R$ 799,00",
+    "_preco": 799.00
 }, {
 	"nome": "Computador Gamer G-Fire Cerberus Gkd",
 	"placamae": "Não especificado",
 	"placavideo": "Integrado com Processador",
 	"hardrive": "SATA 1TB",
+	"hd": "SATA",
 	"finalidade": "Gammer",
 	"processador": "Amd Elite Series Apu A10-7860k",
-        "url": "img/16007781_1SZ.jpg",
+    "url": "img/16007781_1SZ.jpg",
 	"memoria": "8GB",
-        "preco": "R$ 2.199,00"
+    "preco": "R$ 2.199,00",
+    "_preco": 2199.00
 }]
