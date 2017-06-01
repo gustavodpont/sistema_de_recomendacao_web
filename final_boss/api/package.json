@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "boom": "^5.1.0",
+    "good": "^7.2.0",
+    "hapi": "^16.3.0",
+    "hoek": "^4.1.1",
+    "joi": "^10.5.2",
+    "mongoose": "^4.10.4"
+  }
+}
