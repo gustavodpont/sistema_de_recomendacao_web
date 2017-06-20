@@ -1,0 +1,299 @@
+
+<!-- Page Header -->
+<div class="page-header bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <!-- Page Header Wrapper -->
+                <div class="page-header-wrapper">
+                    <!-- Title & Sub Title -->
+                    <h3 class="title">Checkout</h3>
+                    <h6 class="sub-title">Verifique as informações de Entrega e Finalize o Pedido</h6>
+                    <ol class="breadcrumb">
+                        <li><a ui-sref="home">Inicio</a></li>
+                        <li class="active">Checkout</li>
+                    </ol><!-- Breadcrumb -->
+                </div><!-- Page Header Wrapper -->
+            </div><!-- Coloumn -->
+        </div><!-- Row -->
+    </div><!-- Container -->
+</div><!-- Page Header -->
+
+<!-- Page Main -->
+<div role="main" class="main shop">
+    <div class="page-default bg-grey typo-dark">
+        <!-- Container -->
+        <div class="container">
+
+            <div class="row shop-forms">
+                <div class="col-sm-8">
+                    <div class="content-box shadow bg-white">
+                        <p>Usuario não Logado <a ui-sref="login">Clique aqui para fazer o Login</a></p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="content-box shadow bg-white">
+                        <p>Tem um Cupom de Desconto? <a href="shop-login.html">Clique Aqui</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row shop-forms margin-top-30">
+                <div class="col-md-8">
+                    <div class="panel-group accordion" id="accordion">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                                        Endereço de Entrega
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseTwo" class="accordion-body">
+                                <div class="panel-body">
+                                    <form action="" id="" method="post">
+                                        <!--<div class="row">-->
+                                            <!--<div class="form-group">-->
+                                                <!--<div class="col-md-12">-->
+                                                    <!--<label>Estado</label>-->
+                                                    <!--<select class="form-control">-->
+                                                        <!--<option value="">Selecione o Estado</option>-->
+                                                    <!--</select>-->
+                                                <!--</div>-->
+                                            <!--</div>-->
+                                        <!--</div>-->
+                                        <div class="row">
+                                            <div class="form-group">
+                                                <div class="col-md-6">
+                                                    <label>Nome</label>
+                                                    <input type="text" value="" class="form-control">
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <label>Sobrenome</label>
+                                                    <input type="text" value="" class="form-control">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="form-group">
+                                                <div class="col-md-12">
+                                                    <label>Endereço</label>
+                                                    <input type="text" value="" class="form-control">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="form-group">
+                                                <div class="col-md-12">
+                                                    <label>Cidade</label>
+                                                    <input type="text" value="" class="form-control">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                        Revisar e Pagar
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseThree" class="accordion-body">
+                                <div class="panel-body">
+                                    <table cellspacing="0" class="shop_table cart">
+                                        <thead>
+                                        <tr>
+                                            <th class="product-thumbnail">&nbsp;
+
+                                            </th>
+                                            <th class="product-name">
+                                                Produto
+                                            </th>
+                                            <th class="product-price">
+                                                Preço
+                                            </th>
+                                            <th class="product-quantity">
+                                                Quantidade
+                                            </th>
+                                            <th class="product-subtotal">
+                                                Total
+                                            </th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr class="cart_table_item">
+                                            <td class="product-thumbnail">
+                                                <a href="shop-product-sidebar.html">
+                                                    <img width="100" height="100" alt="" class="img-responsive" src="images/default/product-thumb-01.jpg">
+                                                </a>
+                                            </td>
+                                            <td class="product-name">
+                                                <a href="shop-product-sidebar.html">Responsive Design</a>
+                                            </td>
+                                            <td class="product-price">
+                                                <span class="amount">$48</span>
+                                            </td>
+                                            <td class="product-quantity">
+                                                2
+                                            </td>
+                                            <td class="product-subtotal">
+                                                <span class="amount">$96</span>
+                                            </td>
+                                        </tr>
+                                        <tr class="cart_table_item">
+                                            <td class="product-thumbnail">
+                                                <a href="shop-product-sidebar.html">
+                                                    <img width="100" height="100" alt="" class="img-responsive" src="images/default/product-thumb-02.jpg">
+                                                </a>
+                                            </td>
+                                            <td class="product-name">
+                                                <a href="shop-product-sidebar.html">Art of niko</a>
+                                            </td>
+                                            <td class="product-price">
+                                                <span class="amount">$15</span>
+                                            </td>
+                                            <td class="product-quantity">
+                                                3
+                                            </td>
+                                            <td class="product-subtotal">
+                                                <span class="amount">$45</span>
+                                            </td>
+                                        </tr>
+                                        <tr class="cart_table_item">
+                                            <td class="product-thumbnail">
+                                                <a href="shop-product-sidebar.html">
+                                                    <img width="100" height="100" alt="" class="img-responsive" src="images/default/product-thumb-03.jpg">
+                                                </a>
+                                            </td>
+                                            <td class="product-name">
+                                                <a href="shop-product-sidebar.html">Tools</a>
+                                            </td>
+                                            <td class="product-price">
+                                                <span class="amount">$32</span>
+                                            </td>
+                                            <td class="product-quantity">
+                                                1
+                                            </td>
+                                            <td class="product-subtotal">
+                                                <span class="amount">$32</span>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+
+                                    <hr class="lg">
+
+                                    <h4>Total</h4>
+                                    <table cellspacing="0" class="cart-totals">
+                                        <tbody>
+                                        <tr class="cart-subtotal">
+                                            <th>
+                                                <strong>Subtotal</strong>
+                                            </th>
+                                            <td>
+                                                <strong><span class="amount">$173</span></strong>
+                                            </td>
+                                        </tr>
+                                        <tr class="shipping">
+                                            <th>
+                                                Frete
+                                            </th>
+                                            <td>
+                                                Frete Grátis
+                                            </td>
+                                        </tr>
+                                        <tr class="total">
+                                            <th>
+                                                <strong>Total do Pedido</strong>
+                                            </th>
+                                            <td>
+                                                <strong><span class="amount">$173</span></strong>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+
+                                    <hr class="lg">
+
+                                    <h4>Método de Pagamento</h4>
+
+                                    <form action="" id="" method="post">
+                                        <div class="row">
+                                            <div class="col-md-12">
+												<span class="remember-box checkbox">
+													<label>
+														<input type="checkbox" checked="checked">Boleto Bancario
+													</label>
+												</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+												<span class="remember-box checkbox">
+													<label>
+														<input type="checkbox">Cartao de Credito
+													</label>
+												</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+												<span class="remember-box checkbox">
+													<label>
+														<input type="checkbox">PagSeguro
+													</label>
+												</span>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="actions-continue">
+                        <input type="submit" value="Finalizar Pedido" name="" class="btn btn-lg">
+                    </div>
+                </div>
+
+                <div class="col-sm-4">
+                    <div class="content-box shadow bg-white">
+                        <h4>Carrinho</h4>
+                        <table cellspacing="0" class="cart-totals">
+                            <tbody>
+                            <tr class="cart-subtotal">
+                                <th>
+                                    <strong>Subtotal</strong>
+                                </th>
+                                <td>
+                                    <strong><span class="amount">R$ 173,00</span></strong>
+                                </td>
+                            </tr>
+                            <tr class="shipping">
+                                <th>
+                                    Frete
+                                </th>
+                                <td>
+                                    Frete Grátis
+                                </td>
+                            </tr>
+                            <tr class="total">
+                                <th>
+                                    <strong>Valor Total</strong>
+                                </th>
+                                <td>
+                                    <strong><span class="amount">R$ 173,00</span></strong>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div><!-- Row -->
+        </div><!-- Container -->
+    </div><!-- Page Default -->
+</div><!-- Page Main -->
