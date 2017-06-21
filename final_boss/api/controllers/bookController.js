@@ -11,11 +11,12 @@ exports.register = function(server, options, next){
             method: 'GET',
             path: '/api/books',
             config: {
+                auth: 'jwt',
                 cors: true
             },
             handler: (request, reply) => {
 
-                request.models.Books.find({})
+                request.models.Book.find({})
                     .then((books) => {
 
                         if (!books) {
@@ -35,6 +36,7 @@ exports.register = function(server, options, next){
             method: 'GET',
             path: '/api/books/{bookId}',
             config: {
+                auth: 'jwt',
                 validate: {
                     params: {
                         bookId: Joi.string().required()

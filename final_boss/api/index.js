@@ -17,6 +17,15 @@ server.register([
         register: require('./models')
     },
     {
+        register: require('hapi-auth-jwt2')
+    },
+    {
+        register: require('./controllers/authenticationController')
+    },
+    {
+        register: require('./controllers/userController')
+    }    ,
+    {
         register: require('./controllers/bookController')
     }
 ], (err) => {
