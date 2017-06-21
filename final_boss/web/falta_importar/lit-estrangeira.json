@@ -1,0 +1,946 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "r0qSDgAAQBAJ",
+   "etag": "m1nt/C4/J2k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r0qSDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Espaço sem Limites",
+    "authors": [
+     "Megan Crewe"
+    ],
+    "publisher": "Editora Jangada",
+    "publishedDate": "2017-03-31",
+    "description": "Os rebeldes foram dispersados e seus planos, arruinados. Traída por aqueles em quem mais confiava, Skylar se vê aprisionada, junto com um pequeno grupo de terráqueos, na estação espacial dos alienígenas. Qualquer movimento em falso e Skylar pode causar a extinção do seu povo. Mas desistir significa perder qualquer resquício de liberdade. Enquanto isso, Win volta para casa e se livra de ser punido pelo governo fingindo ser leal a Kemya. Mas ele não suporta ver Skylar aprisionada ou assistir seus companheiros kemyanos engolirem as mentiras do Conselho sobre a Terra. Neste livro repleto de ação que encerra a trilogia Ecos do Espaço, nem Skylar nem Win sabem que estão prestes a descobrir uma conspiração ainda mais chocante, que pode lhes roubar definitivamente a esperança de um futuro melhor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555390791"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8555390796"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r0qSDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r0qSDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=r0qSDgAAQBAJ&printsec=frontcover&dq=literatura+estrangeira&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r0qSDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r0qSDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r0qSDgAAQBAJ&rdid=book-r0qSDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 27900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 27900000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Espa%C3%A7o_sem_Limites-sample-epub.acsm?id=r0qSDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r0qSDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os rebeldes foram dispersados e seus planos, arruinados."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z0RXDgAAQBAJ",
+   "etag": "Rk60O5k5du4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z0RXDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Caminhos cruzados e Um lugar ao sol",
+    "subtitle": "O projeto literário de Erico Verissimo",
+    "authors": [
+     "Beatriz Badim de Campos"
+    ],
+    "publisher": "EDUC - Editora da PUC-SP",
+    "publishedDate": "2017-03-08",
+    "description": "Este livro, que tem como foco de investigação os romances Caminhos Cruzados e Um Lugar ao Sol, de Erico Verissimo, faz uma abordagem crítica, teórica e interpretativa da obra verissiana. Traça um percurso dos anos iniciais de sua vida literária, verificando de que forma se estabeleceram os alicerces de seu projeto literário e como a crítica recebeu sua obra dentro do contexto da literatura da década de 1930, e posteriormente. Propõe a abertura de novas perspectivas críticas sobre a obra de Erico Verissimo, ampliando a forma de agir no mundo por meio da literatura desse contador de histórias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788528305661"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "852830566X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=z0RXDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=z0RXDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=z0RXDgAAQBAJ&pg=PT38&dq=literatura+estrangeira&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=z0RXDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-z0RXDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=z0RXDgAAQBAJ&rdid=book-z0RXDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 24000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 24000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caminhos_cruzados_e_Um_lugar_ao_sol-sample-epub.acsm?id=z0RXDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caminhos_cruzados_e_Um_lugar_ao_sol-sample-pdf.acsm?id=z0RXDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z0RXDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O catálogo contemplava desde romances policiais, passando pela literatura <br>\ninfantil, poesia, filosofia, livros de ... O objetivo era abrir espaço, no mercado <br>\nbrasileiro, à <b>literatura estrangeira</b> não apenas francesa, que era, na época, o que <br>\nmais&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PmErDgAAQBAJ",
+   "etag": "ebvMCDGiYs8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PmErDgAAQBAJ",
+   "volumeInfo": {
+    "title": "O clube do livro",
+    "authors": [
+     "Luzia de Maria"
+    ],
+    "publisher": "Global Editora e Distribuidora Ltda",
+    "publishedDate": "2017-02-21",
+    "description": "Acreditando que a leitura tem poder libertário e transformador, e que a pessoa que possui uma ampla visão de mundo é capaz de ler as entrelinhas, Luzia de Maria nos oferece uma obra que aposta no tripé Educação/Literatura/Leitura. Com linguagem poética e fluente, mostra a importância dos leitores e dos livros, bastando abrir e ler essas páginas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526023314"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8526023314"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PmErDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PmErDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PmErDgAAQBAJ&pg=PT149&dq=literatura+estrangeira&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PmErDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PmErDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 34.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PmErDgAAQBAJ&rdid=book-PmErDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 34500000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 34500000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_clube_do_livro-sample-epub.acsm?id=PmErDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_clube_do_livro-sample-pdf.acsm?id=PmErDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PmErDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "<b>literatura estrangeira</b>, clássicos antigos ou contemporâneos, sem esquecer a <br>\npróspera literatura latino-americana. Diante de um quadro como este, que é real, <br>\nvolto ao começo deste item, cujo título é “quem forma o professor-leitor?” e agora<br>\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HTKSDgAAQBAJ",
+   "etag": "a1WgMPK/54c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HTKSDgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Brasil tal qual ele é",
+    "authors": [
+     "Katia Aily Franco de Camargo",
+     "Charles Expilly"
+    ],
+    "publisher": "Paco Editorial",
+    "publishedDate": "2017-01-20",
+    "description": "O Brasil tal qual ele é, de Charles Expilly, retrata a vivência do autor no Rio de Janeiro em meados do século XIX. O viajante francês, após algumas publicações muito sinceras quanto à vivência no país, ficou conhecido como o \"Inimigo do Brasil\". Publicado originalmente em 1862, foi agora traduzido pela primeira vez, na íntegra, por Katia Aily Franco de Camargo, que apresenta uma obra com notas relevantes sobre a visão do viajante francês e da sociedade brasileira da época, resultando em um livro rico e uma contribuição importante para a compreensão da história social e política do nosso país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546205059"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8546205051"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HTKSDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HTKSDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HTKSDgAAQBAJ&printsec=frontcover&dq=literatura+estrangeira&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HTKSDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HTKSDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.96,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.96,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HTKSDgAAQBAJ&rdid=book-HTKSDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 13960000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 13960000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_tal_qual_ele_%C3%A9-sample-epub.acsm?id=HTKSDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_tal_qual_ele_%C3%A9-sample-pdf.acsm?id=HTKSDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HTKSDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Brasil tal qual ele é, de Charles Expilly, retrata a vivência do autor no Rio de Janeiro em meados do século XIX."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HYauDgAAQBAJ",
+   "etag": "YR0jIHwLaN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HYauDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Anais do 16o congresso brasileiro de professores de espanhol e do 1o simpósio nacional de professores de espanhol em formação",
+    "subtitle": "São Carlos, 28 a 31 de julho de 2015 • APEESP ~UFSCar ~Unifesp",
+    "authors": [
+     "Andreia Dos Santos Menezes",
+     "Antón Castro Míguez",
+     "Neide Elias"
+    ],
+    "publisher": "Simplissimo Livros Ltda",
+    "publishedDate": "2017-01-06",
+    "description": "Estes são os anais do 16o Congresso Brasileiro de Professores de Espanhol (16o CBPE)/ 1o Simpósio Nacional de Professores de Espanhol em Formação (1o SNPEF), eventos organizados pela Associação de Professores de Espanhol do Estado de São Paulo (APEESP), juntamente com a Universidade Federal de São Paulo (UNIFESP) e a Universidade Federal de São Carlos (UFSCar). Os eventos tiveram lugar na UFSCar, localizada na cidade paulista de São Carlos, entre os dias 28 e 31 de julho de 2015, e contaram com recursos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e da Fundação de Amparo à Pesquisa do Estado de São Paulo (Fapesp), além do apoio da Pró-Reitoria de Extensão da UFSCar. O 16o CBPE e o 1o SNPEF foram organizados com o objetivo de constituírem-se como um espaço de reflexão sobre práticas e teorias para atuais e futuros docentes, assim como para pesquisadoras, pesquisadores e demais profissionais relacionados ao estudo da língua espanhola, das literaturas de língua espanhola e do ensino-aprendizagem de línguas estrangeiras. Assim, tinha-se como público-alvo principal professores e professoras de espanhol e suas literaturas, que puderam apresentar comunicações orais e oficinas, além de alunas e alunos de graduação em Letras-Espanhol, que puderam apresentar comunicações orais resultantes de pesquisas de Trabalhos de Conclusão de Curso (TCC), Iniciação Científica (IC), monitorias e estágios do PIBID, elaboradas sob a supervisão de docentes orientadores. O evento contou com 52 mesas de comunicações orais, contabilizando 242 apresentações, e 17 oficinas (Congresso), enquanto o 1o SNPEF contou com 17 mesas que totalizaram 77 apresentações, além da participação de cerca de 100 ouvintes. Tanto os artigos originários das comunicações orais apresentadas no Congresso, como aqueles frutos das apresentações realizadas no Simpósio, puderam se submeter à avaliação para a publicação nestes anais. Ademais, esta publicação conta também com artigos oriundos das apre",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595130166"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595130167"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 925,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HYauDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HYauDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HYauDgAAQBAJ&pg=PP1&dq=literatura+estrangeira&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HYauDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HYauDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HYauDgAAQBAJ&rdid=book-HYauDgAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Anais_do_16o_congresso_brasileiro_de_pro-sample-epub.acsm?id=HYauDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Anais_do_16o_congresso_brasileiro_de_pro-sample-pdf.acsm?id=HYauDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HYauDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Estes são os anais do 16o Congresso Brasileiro de Professores de Espanhol (16o CBPE)/ 1o Simpósio Nacional de Professores de Espanhol em Formação (1o SNPEF), eventos organizados pela Associação de Professores de Espanhol do Estado de ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gxSrDQAAQBAJ",
+   "etag": "G61pPDFuxow",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gxSrDQAAQBAJ",
+   "volumeInfo": {
+    "title": "A grande estrangeira",
+    "authors": [
+     "Michel Foucault"
+    ],
+    "publisher": "Autêntica",
+    "publishedDate": "2016-12-06",
+    "description": "A grande estrangeira traz registros de intervenções orais de Foucault realizadas entre 1963 e 1970. Os primeiros textos são transcrições de dois programas de rádio transmitidos em janeiro de 1963, em que o filósofo prolonga suas reflexões de A história da loucura. Há aqui também duas conferências: uma de 1964, sobre linguagem e literatura, e a segunda, de 1970, dedicada ao Marquês de Sade. O livro nos permite descobrir o Foucault leitor – voraz, exigente e brilhante –, além de sua complexa, crítica e estratégica relação com a literatura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582175927"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582175922"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gxSrDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gxSrDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gxSrDQAAQBAJ&pg=PT4&dq=literatura+estrangeira&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gxSrDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gxSrDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gxSrDQAAQBAJ&rdid=book-gxSrDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_grande_estrangeira-sample-epub.acsm?id=gxSrDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_grande_estrangeira-sample-pdf.acsm?id=gxSrDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gxSrDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É provável que só ter acesso à literatura contemporânea através de uma <br>\n<b>literatura estrangeira</b>, à fonte da qual nunca se podia remontar, tenha introduzido <br>\numa espécie de distância em relação à literatura. A literatura era a “grande&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FDCDDQAAQBAJ",
+   "etag": "qvplDrMzQqo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FDCDDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Rio-Paris-Rio",
+    "authors": [
+     "Luciana Hidalgo"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2016-11-17",
+    "description": "Maria e Arthur se encontram em Paris no início de 1968. Ela estuda filosofia na Sorbonne, ele é poeta e artista de rua. Juntos vivem os excessos daqueles anos de revoluções e utopias e fogem da ditadura no Brasil, divididos entre o deslumbramento pelo que o Velho Mundo lhes oferece e a permanente sensação de que são intrusos na grande festa que é Paris. Maria passa o dia lendo Descartes e tenta seguir à risca as orientações do professor de filosofia sobre métodos de simetria e perfeição na condução de sua vida. Arthur é um libertário, idealista e sonhador, inimigo da rotina e artista nato. A realidade do Brasil, imerso numa ditadura violenta, é a sombra que permeia a relação dos dois, e também o apartamento ao lado, onde outro brasileiro, conhecido como “Marechal”, reúne estrangeiros que passam pelo mesmo problema em seus países e articulam um modo de resistir ao poder brutal das armas. Duas vezes ganhadora do prêmio Jabuti, Luciana Hidalgo narra em seu segundo romance uma história de amor, sonhos e desilusões, tendo como pano de fundo um período conturbado da história, tanto na Europa quanto no Brasil, com uma prosa poética e potente. Neste livro, a autora reforça outra característica sua, bem presente nas obras anteriores: a identificação com aqueles que vivem à margem, os que se opõem ao sistema e não se permitem levar a vida certinha que lhes oferecem, os que lutam contra injustiças e pagam com a própria vida, os chamados loucos, com suas realidades essencialmente próprias, personagens sempre capazes de proporcionar uma rica literatura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581226682"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858122668X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FDCDDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FDCDDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FDCDDQAAQBAJ&pg=PP1&dq=literatura+estrangeira&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FDCDDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FDCDDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FDCDDQAAQBAJ&rdid=book-FDCDDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 16000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 15200000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Rio_Paris_Rio-sample-epub.acsm?id=FDCDDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Rio_Paris_Rio-sample-pdf.acsm?id=FDCDDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FDCDDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Duas vezes ganhadora do prêmio Jabuti, Luciana Hidalgo narra em seu segundo romance uma história de amor, sonhos e desilusões, tendo como pano de fundo um período conturbado da história, tanto na Europa quanto no Brasil, com uma prosa ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8lT7DAAAQBAJ",
+   "etag": "ylWspZTs5GU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8lT7DAAAQBAJ",
+   "volumeInfo": {
+    "title": "FORMAÇÃO NACIONAL E CÂNONE OCIDENTAL: LITERATURAS E TRADIÇÃO NO NOVO MUNDO",
+    "subtitle": "",
+    "authors": [
+     "ALEXANDER,IAN"
+    ],
+    "publisher": "EDIPUCRS",
+    "publishedDate": "2016-09-06",
+    "description": "O livro aborda o problema de como entender e avaliar o desdobramento da literatura ocidental no Novo Mundo, definido como a parte do Ocidente que fica fora da Europa, principalmente nas Américas e na Oceania. Ele analisa duas grandes abordagens desse processo: a Formação da Literatura Brasileira, de Antonio Candido, e O Cânone Ocidental, de Harold Bloom, e mostra como os seus conceitos de tradição literária e de processo histórico (chamados por Candido de sistema e formação, e por Bloom de cânone e influência) são marcados pelo tempo e pelo lugar da sua produção. Finalmente, propõe um modelo coletivo e comparatista para compreender e escrever a história literária do Novo Mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539703401"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539703408"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 234,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8lT7DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8lT7DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8lT7DAAAQBAJ&pg=PT316&dq=literatura+estrangeira&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8lT7DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8lT7DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8lT7DAAAQBAJ&rdid=book-8lT7DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 18900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 18900000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/FORMA%C3%87%C3%83O_NACIONAL_E_C%C3%82NONE_OCIDENTAL-sample-epub.acsm?id=8lT7DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/FORMA%C3%87%C3%83O_NACIONAL_E_C%C3%82NONE_OCIDENTAL-sample-pdf.acsm?id=8lT7DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8lT7DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Conforme T. S. Eliot, além de responder às mudanças no mundo externo, há <br>\nduas maneiras em que uma literatura pode ... um contato novo com um período <br>\nmais antigo de si mesma, ou por contato com uma <b>literatura estrangeira</b>” (ELIOT, <br>\np."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0qHrDAAAQBAJ",
+   "etag": "pLADAQOPmsc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0qHrDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Ideologia, eu quero uma para ensinar",
+    "subtitle": "Currículo em mo(vi)mento do Distrito Federal",
+    "authors": [
+     "Eduardo Dias da Silva"
+    ],
+    "publisher": "Clock-Book",
+    "publishedDate": "2016-08-29",
+    "description": "O presente livro tem como objetivo analisar e refletir a(s) ideologia(s) que subjaz(em) o Currículo em Movimento da educação básica do Distrito Federal (2014) em relação à coordenação pedagógica e à formação de professores, perpassando pelas teorias curriculares que foram os temas centrais deste trabalho. A questão mais importante repousa em percorrer alguns dos nós que entrelaçam a rede discursiva que dá consistência à trama da educação básica pública no Distrito Federal. Sendo assim, o objeto de investigação escapa ao mero campo da teorização linguística e educacional (in)formais e passa a integrar outros domínios: o da humanidade, o da historicidade, o da ética e o da diferença em relação ao outro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788592525064"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8592525063"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0qHrDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0qHrDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0qHrDAAAQBAJ&pg=PA1&dq=literatura+estrangeira&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0qHrDAAAQBAJ&dq=literatura+estrangeira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ideologia_eu_quero_uma_para_ensinar.html?hl=&id=0qHrDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0qHrDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O presente livro tem como objetivo analisar e refletir a(s) ideologia(s) que subjaz(em) o Currículo em Movimento da educação básica do Distrito Federal (2014) em relação à coordenação pedagógica e à formação de professores, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yoy7DAAAQBAJ",
+   "etag": "xLTNgHy7q3k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yoy7DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Pessoas de livro",
+    "subtitle": "Estudos sobre a personagem",
+    "authors": [
+     "Carlos Reis"
+    ],
+    "publisher": "Imprensa da Universidade de Coimbra/Coimbra University Press",
+    "publishedDate": "2016-07-26",
+    "description": "Encontram-se reunidos neste livro ensaios diretamente relacionados com o projeto de investigação “Figuras da Ficção” (Centro de Literatura Portuguesa da Faculdade de Letras de Coimbra), com extensão ao blogue homónimo (www. figurasdaficcao.wordpress.com). Centrando-se na personagem, nos seus modos de existência ficcional e paraficcional, nas suas figurações e nos seus avatares, os ensaios que aqui se encontram tratam de revalorizar uma categoria narrativa que durante décadas foi relegada para as margens dos estudos literários. Nos últimos vinte anos, os estudos narrativos, tendo colhido muitas das conquistas concetuais e metodológicas da narratologia dos anos 80 do século passado, redescobriram na personagem um apreciável potencial de investimento semântico, de dinamismo transficcional e de articulação intercultural. É isso que está confirmado nos estudos em que aqui são tratados temas e subtemas como a figuração da personagem realista, a refiguração de personalidades históricas, a questão do insólito ou a representação paraficcional de figuras do chamado universo mediático.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789892612119"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9892612116"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 185,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Yoy7DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Yoy7DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Yoy7DAAAQBAJ&pg=PP1&dq=literatura+estrangeira&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Yoy7DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Yoy7DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.48,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.48,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Yoy7DAAAQBAJ&rdid=book-Yoy7DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 17480000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 17480000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pessoas_de_livro-sample-pdf.acsm?id=Yoy7DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Yoy7DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Encontram-se reunidos neste livro ensaios diretamente relacionados com o projeto de investigação “Figuras da Ficção” (Centro de Literatura Portuguesa da Faculdade de Letras de Coimbra), com extensão ao blogue homónimo (www. ..."
+   }
+  }
+ ]

@@ -1,0 +1,825 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "NQTlAQAACAAJ",
+   "etag": "ZrCjA800jy8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NQTlAQAACAAJ",
+   "volumeInfo": {
+    "title": "Primeiras Noçoes de Educação Civica (Classic Reprint)",
+    "authors": [
+     "Antonio Leitão"
+    ],
+    "publisher": "Forgotten Books",
+    "publishedDate": "2017-03-17",
+    "description": "Excerpt from Primeiras Nocoes de Educacao Civica Ha realmente urga porcao grande de homens, conhecidos pela mesma denominacao de portu gueses, que pertencem a mesma raca, falam a mesma lingua, teem os mesmos costumes e as mesmas tradicoes e quase todos a mesma religiao. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0243946074"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780243946075"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 58,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NQTlAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NQTlAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NQTlAQAACAAJ&dq=religiao&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=NQTlAQAACAAJ&dq=religiao&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Primeiras_No%C3%A7oes_de_Educa%C3%A7%C3%A3o_Civica_C.html?hl=&id=NQTlAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NQTlAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iUDuAQAACAAJ",
+   "etag": "fQ8HrNPhPOE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iUDuAQAACAAJ",
+   "volumeInfo": {
+    "title": "Nailed",
+    "subtitle": "Dez Mitos Cristos Que Mostram Que Jesus Nunca Sequer Existiu",
+    "authors": [
+     "David Fitzgerald"
+    ],
+    "publisher": "Createspace Independent Publishing Platform",
+    "publishedDate": "2017-03-11",
+    "description": "Por que algu�m sequer pensaria que Jesus nunca existiu? N�o seria razo�vel aceitar que ele tenha sido uma pessoa real do s�culo primeiro? Como veremos, n�o. Nailed lan�a luz em dez mitos crist�os venerados e, com a evid�ncia hist�rica proveniente da �poca, demonstra como Jesus foi constru�do da alquimia aleg�rica da esperan�a e da imagina��o; um messias transformado de um construto liter�rio teol�gico em uma figura familiar de Jesus, em resumo, um Cristo puramente m�tico.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1539041433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781539041436"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iUDuAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iUDuAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iUDuAQAACAAJ&dq=religiao&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iUDuAQAACAAJ&dq=religiao&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nailed.html?hl=&id=iUDuAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iUDuAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nailed lan a luz em dez mitos crist os venerados e, com a evid ncia hist rica proveniente da  poca, demonstra como Jesus foi constru do da alquimia aleg rica da esperan a e da imagina  o; um messias transformado de um ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AzL_CwAAQBAJ",
+   "etag": "Slx4FWLIlVU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AzL_CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Novas perspectivas da Psicologia Social: o que nos aprisiona e o que nos liberta? Ensaios",
+    "authors": [
+     "Alunos Especialização Unisa 2016"
+    ],
+    "publisher": "Lulu.com",
+    "publishedDate": "2016-02-28",
+    "description": "Esse livro tem como objetivo compartilhar ensaios e reflexoes acerca das Psicologia Social tendo como temas: familia, escola, estado, arte, religiao. O objetivo e exemplificar e questionar a realidade brasileira e os servicos vigentes a partir da indagacao do que nos aprisiona e o que nos liberta. A construcao dos discursos e uma perspectiva critica de Psicologia Social conduzem a uma reflexao atual da realidade brasileira.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781329903456"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1329903455"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AzL_CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AzL_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AzL_CwAAQBAJ&printsec=frontcover&dq=religiao&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AzL_CwAAQBAJ&dq=religiao&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Novas_perspectivas_da_Psicologia_Social.html?hl=&id=AzL_CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AzL_CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esse livro tem como objetivo compartilhar ensaios e reflexoes acerca das Psicologia Social tendo como temas: familia, escola, estado, arte, religiao."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v0GCAQAACAAJ",
+   "etag": "3+f+kenlASY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v0GCAQAACAAJ",
+   "volumeInfo": {
+    "title": "Resumo do Catecismo de Perseverança, Ou Exposição Histórica, Dogmatica, Moral e Liturgica da Religião, Desde A Origem do Mundo Até Aos Nossos Dias (Classic Reprint)",
+    "authors": [
+     "Jean Joseph Gaume"
+    ],
+    "publisher": "Forgotten Books",
+    "publishedDate": "2017-02-23",
+    "description": "Excerpt from Resumo do Catecismo de Perseveranca, Ou Exposicao Historica, Dogmatica, Moral e Liturgica da Religiao, Desde A Origem do Mundo Ate Aos Nossos Dias Por tant0, afora os muitos e grandes obsequios que esta Empreza confessa dever a V. Exc.3, nada mais seria preciso para crear espontaneamente em nos 0 im perioso e irrefragavel dever de collocar este interessante Catecismo sob os auspicios de V. Exc.a, a quem, na honrosa qualidade de illustrado professor de theologia e eximio orador sagrado, esta connado o ensino da dou trina catholica, e que por sua erudicao e distinctas qua lidades realca a religiao e a virtude. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0243492898"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780243492893"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 390,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=v0GCAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=v0GCAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=v0GCAQAACAAJ&dq=religiao&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=v0GCAQAACAAJ&dq=religiao&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Resumo_do_Catecismo_de_Perseveran%C3%A7a_Ou.html?hl=&id=v0GCAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=v0GCAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hSr-vQAACAAJ",
+   "etag": "O0zCVIWru7E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hSr-vQAACAAJ",
+   "volumeInfo": {
+    "title": "Os Martyres, Ou Triumpho da Religião Christãa, Vol. 1",
+    "subtitle": "Poema (Classic Reprint)",
+    "authors": [
+     "François-René Chateaubriand"
+    ],
+    "publisher": "Forgotten Books",
+    "publishedDate": "2016-08-05",
+    "description": "Excerpt from Os Martyres, Ou Triumpho da Religiao Christaa, Vol. 1: Poema Ministro e Secretario de Estado dos Negocios da Marinha e ultramarinos de sua mages tade fidelissima etc. Etc. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1333178840"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781333178840"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 436,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hSr-vQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hSr-vQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=hSr-vQAACAAJ&dq=religiao&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=hSr-vQAACAAJ&dq=religiao&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_Martyres_Ou_Triumpho_da_Religi%C3%A3o_Chr.html?hl=&id=hSr-vQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hSr-vQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Etc. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yeEyAAAAQBAJ",
+   "etag": "Du9cBw6fr0g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yeEyAAAAQBAJ",
+   "volumeInfo": {
+    "title": "O capitalismo como religião",
+    "authors": [
+     "Walter Benjamin"
+    ],
+    "publisher": "Boitempo Editorial",
+    "publishedDate": "2015-10-23",
+    "description": "O capitalismo como religião apresenta um recorrido por ensaios do filósofo Walter Benjamin, organizado e introduzido pelo sociólogo Michael Löwy. O livro traz textos surpreendentes, em particular os ditos de juventude, que vêm à tona com a liberação da obra benjaminiana para o domínio público. Löwy reuniu escritos de Benjamin inéditos em português ou difíceis de consultar, que contêm, em graus variados, uma crítica radical da civilização capitalista-industrial moderna. Segundo o organizador, Benjamin ocupa uma posição singular na história do pensamento crítico moderno. É o primeiro seguidor do materialismo histórico a romper radicalmente com a ideologia do progresso linear: \"Por sua crítica radical da civilização burguesa moderna, por sua desconstrução da ideologia do progresso - a Grande Narrativa dos tempos modernos, comum tanto aos liberais quanto aos socialistas -, os escritos de Benjamin parecem um bloco errático à margem das principais correntes da cultura moderna\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575593400"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575593404"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yeEyAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yeEyAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yeEyAAAAQBAJ&printsec=frontcover&dq=religiao&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yeEyAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yeEyAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yeEyAAAAQBAJ&rdid=book-yeEyAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 21000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 21000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_capitalismo_como_religi%C3%A3o-sample-epub.acsm?id=yeEyAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_capitalismo_como_religi%C3%A3o-sample-pdf.acsm?id=yeEyAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yeEyAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O capitalismo como religião apresenta um recorrido por ensaios do filósofo Walter Benjamin, organizado e introduzido pelo sociólogo Michael Löwy."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oMvc4KzwNTgC",
+   "etag": "GygJlygu+qU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oMvc4KzwNTgC",
+   "volumeInfo": {
+    "title": "Noiva da revolução/Elegia para uma re(li)gião",
+    "authors": [
+     "Francisco de Oliveira"
+    ],
+    "publisher": "Boitempo Editorial",
+    "publishedDate": "2015-10-23",
+    "description": "A cidade, com suas construções e acidentes geográficos, só existe quando percorrida pela memória; é a experiência humana que trafega por suas ruas e lhe confere sentido - particular e coletivo. Neste livro, quem nos convida a conhecer a cartografia do Recife são as reminiscências de um dos maiores intelectuais brasileiros: Francisco de Oliveira. Não se trata de um emaranhado de datas e documentos históricos. Testemunha de fatos políticos e sociais que marcaram o Brasil e o Nordeste, o sociólogo pernambucano desenvolve, em Noiva da revolução, um ensaio histórico-político-sentimental munido de suas lembranças, \"duas mãos e o sentimento do mundo\", como registra. Neste texto inédito, Chico conta que estava junto do então governador Miguel Arraes quando o coronel Dutra de Castilho deu-lhe voz de prisão, no Palácio do Campo das Princesas. Relata também a escuta, em uma extensão telefônica, do diálogo entre Arraes e João Goulart, este ironizando o \"medo\" do governador diante da movimentação das tropas do general Justino, que segundo o presidente (deposto posteriormente) estariam nas ruas para proteger Arraes. Tais revelações são descritas na prosa rica em poesias e canções, encadeadas não apenas pela diversidade das reminiscências pessoais do autor, mas sobretudo pela análise contumaz daquilo que não foi, da cidade e de sua promessa de realização. Sobre o Recife, a \"Noiva da revolução\" segundo poema de Carlos Pena Filho, Chico de Oliveira diz: \"Cerimônia marcada, na undécima hora sempre chegavam sinistros homens, deixando para trás amargas lembranças vestidas de luto\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575592854"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575592858"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oMvc4KzwNTgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oMvc4KzwNTgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oMvc4KzwNTgC&printsec=frontcover&dq=religiao&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oMvc4KzwNTgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oMvc4KzwNTgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oMvc4KzwNTgC&rdid=book-oMvc4KzwNTgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 22000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 22000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Noiva_da_revolu%C3%A7%C3%A3o_Elegia_para_uma_re-sample-pdf.acsm?id=oMvc4KzwNTgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oMvc4KzwNTgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, quem nos convida a conhecer a cartografia do Recife são as reminiscências de um dos maiores intelectuais brasileiros: Francisco de Oliveira. Não se trata de um emaranhado de datas e documentos históricos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oTkdDAAAQBAJ",
+   "etag": "zjifi18yL24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oTkdDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Onde a religião termina?",
+    "authors": [
+     "Marcelo da Luz"
+    ],
+    "publisher": "Associação Internacional Editares",
+    "publishedDate": "2015-06-10",
+    "description": "Escrito por um ex-sacerdote católico, este livro constitui impressionante e esclarecedora demolição dos fundamentos da crença religiosa. Combinando fatos, vivências pessoais e uma abordagem multidisciplinar que inclui História, Sociologia, Filosofia, Antropologia, Teologia e Conscienciologia, o autor expõe as irracionalidades e enganos do Cristianismo e de outras religiões do Planeta. Texto imprescindível para todos os interessados na análise da influência da religião sobre a consciência humana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584770168"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858477016X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 486,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oTkdDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oTkdDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oTkdDAAAQBAJ&printsec=frontcover&dq=religiao&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oTkdDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oTkdDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 35.03,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oTkdDAAAQBAJ&rdid=book-oTkdDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 39000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 35030000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Onde_a_religi%C3%A3o_termina-sample-epub.acsm?id=oTkdDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Onde_a_religi%C3%A3o_termina-sample-pdf.acsm?id=oTkdDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oTkdDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Escrito por um ex-sacerdote católico, este livro constitui impressionante e esclarecedora demolição dos fundamentos da crença religiosa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GZI_DQEACAAJ",
+   "etag": "PZZ2wqyhZVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GZI_DQEACAAJ",
+   "volumeInfo": {
+    "title": "Liberto Da Religiao",
+    "subtitle": "O Inestimavel Prazer de Ser Um Livre-Pensador",
+    "authors": [
+     "Paulo Bitencourt"
+    ],
+    "publisher": "Createspace Independent Publishing Platform",
+    "publishedDate": "2016-07-10",
+    "description": "Apesar de toda expansao do conhecimento e avanco da Ciencia, com nossas sondas espaciais vasculhando os confins do Sistema Solar, e a despeito de todo pensamento filosofico, 250 anos apos o Iluminismo, em pleno seculo XXI, bilhoes de pessoas ainda pensam ser imprescindivel acreditar nas coisas sem evidencias que as religioes ensinam. Religiao causa separacao. Enquanto as religioes mundiais desdenham umas das outras, milhares de denominacoes cristas mutuamente se desprezam na corrida pelo titulo de \"A Verdadeira,\" mas se unem no combate a razao e imposicao de suas conjecturas a toda a sociedade. Ao passo que o Isla cada vez mais se radicaliza, o Brasil tem sido palco de um aumento vertiginoso de fundamentalismo cristao que se infiltra na politica e busca transformar nosso pais numa teocracia. A partir de sua experiencia pessoal com o literalismo biblico, Paulo Bitencourt faz uma abordagem historica do fundamentalismo e expoe as falacias dos dogmas religiosos, os efeitos negativos da supressao do pensamento critico e os beneficios que viver sem religiao traz ao individuo e consequentemente ao mundo. Paulo Bitencourt nasceu no Parana, mas passou a infancia no Rio de Janeiro. De familia evangelica, quase se tornou pastor. Ao fim do quinto semestre de Faculdade de Teologia, em Sao Paulo, abandonou os estudos e foi viver na Austria, onde se formou em Canto Lirico. Sua esposa e natural de Sao Petersburgo, na Russia, e seu filho nasceu em Viena.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1535198842"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781535198844"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GZI_DQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GZI_DQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GZI_DQEACAAJ&dq=religiao&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GZI_DQEACAAJ&dq=religiao&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Liberto_Da_Religiao.html?hl=&id=GZI_DQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GZI_DQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sua esposa   natural de S o Petersburgo, na R ssia, e seu filho nasceu na terra de Wolfgang Amadeus Mozart. Paulo Bitencourt   autor tamb m do livro Com Zeus N o se Brinca."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U8zfBAAAQBAJ",
+   "etag": "FGGCTe1fRjo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U8zfBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Dicionário do latim essencial",
+    "authors": [
+     "Antônio Martinez de Rezende",
+     "Sandra Braga Bianchet"
+    ],
+    "publisher": "Autêntica",
+    "publishedDate": "2014-08-25",
+    "description": "A ponte é a mesma, sob a qual passam diferentes águas: as margens se unem pela solidez de blocos, que revelam harmoniosa curvatura de arcos. A língua latina, uma colossal edificação da inteligência humana, constitui passagem obrigatória, um caminho largo, via de mão dupla por onde transitam, em muitas dimensões, o passado que se traz ao presente, o presente que se perpetua no passado. Muito além de meramente reconhecer e explicar que o português é uma das línguas descendentes diretamente do latim, está a certeza de que um texto escrito em latim, há dois mil anos ou mais, pode guardar um ilimitado universo à espera das muitas interpretações. Este dicionário é um dos meios auxiliares para aqueles que pretendem o acesso ao universo da língua latina. Ele recomenda, pelas suas definições, o pudor que reverencia, em cerimonioso recato, as sagradas instituições romanas, mas não deixa de recomendar também que se busque o deleite, o puro prazer de que a ingênua e efêmera natureza humana tanto necessita e que foi tão admiravelmente expresso pelos escritores latinos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582173190"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582173199"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=U8zfBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=U8zfBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=U8zfBAAAQBAJ&pg=PT292&dq=religiao&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=U8zfBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-U8zfBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.92,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=U8zfBAAAQBAJ&rdid=book-U8zfBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 15920000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_do_latim_essencial-sample-epub.acsm?id=U8zfBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_do_latim_essencial-sample-pdf.acsm?id=U8zfBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=U8zfBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Aquilo que e contrario a vontade divina ou as leis da <b>religiäo</b> e da natureza. <br>\nCrime, atrocidade. Prodigio, monstruosidade. nefastus,a,um. (nefas). Proibido <br>\npelas leis divinas, contrario as leis da natureza e da <b>religiao</b>. Abominavel, <br>\ncriminoso&nbsp;..."
+   }
+  }
+ ]

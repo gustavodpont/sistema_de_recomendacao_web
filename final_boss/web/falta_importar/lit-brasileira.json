@@ -1,0 +1,982 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "oRLPDgAAQBAJ",
+   "etag": "Ah/Bgr8irQM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oRLPDgAAQBAJ",
+   "volumeInfo": {
+    "title": "História Bizarra da Literatura Brasileira",
+    "authors": [
+     "Marcel Verrumo"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2017-04-13",
+    "description": "Os mistérios, as tragédias e os fatos emocionantes e bizarros envolvendo nossos livros clássicos e seus autores A partir de um olhar curioso e engraçado, História bizarra da literatura brasileira é um mergulho nos mistérios, nas tragédias, nos fatos emocionantes, divertidos e, claro, nas bizarrices envolvendo nossos livros clássicos e seus autores. A partir de uma vasta pesquisa, o autor mostra todos os grandes nomes da nossa literatura, porém com um olhar que os tira do pedestal de “pensadores intocáveis” e apresenta o seu lado mais humano, comum e, claro, bizarro. O leitor vai descobrir o que aconteceu com a carta de Pero Vaz de Caminha, escrita para livrar um ladrão do exílio e desaparecida por séculos. Vai se assustar com o famoso escritor romântico que previu que iria morrer e se emocionar com a trajetória da esposa de Guimarães Rosa, uma heroína que salvou a vida de centenas de judeus durante a 2a Guerra Mundial. Prepara-se, pois os personagens da capa deste livro são apenas algumas das muitas bizarrices escondidas por trás das linhas de nossa literatura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542210330"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542210336"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 330,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oRLPDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oRLPDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oRLPDgAAQBAJ&printsec=frontcover&dq=literatura+brasileira&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oRLPDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oRLPDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.33,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.86,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oRLPDgAAQBAJ&rdid=book-oRLPDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 29330000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 27860000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_Bizarra_da_Literatura_Brasilei-sample-epub.acsm?id=oRLPDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_Bizarra_da_Literatura_Brasilei-sample-pdf.acsm?id=oRLPDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oRLPDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os mistérios, as tragédias e os fatos emocionantes e bizarros envolvendo nossos livros clássicos e seus autores A partir de um olhar curioso e engraçado, História bizarra da literatura brasileira é um mergulho nos mistérios, nas ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VUanDgAAQBAJ",
+   "etag": "I/M8rOC27Ag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VUanDgAAQBAJ",
+   "volumeInfo": {
+    "title": "O legado de Capitu",
+    "subtitle": "",
+    "authors": [
+     "Flávio Aguiar"
+    ],
+    "publisher": "e-galáxia",
+    "publishedDate": "2017-04-12",
+    "description": "Um boêmio professor universitário já aposentado vive uma pacata rotina em Berlim, às voltas com suas pesquisas em literatura brasileira. Numa madrugada qualquer, porém, um telefonema misterioso irá virar sua vida de pernas para o ar: do outro lado da linha (e do oceano), um agente da Agência Brasileira de Inteligência, a ABIN, precisa desvendar um rocambolesco mistério, envolvendo um senador da República brasileira e seu arquinimigo político, um deputado federal, com um crime não desvendado do passado, maçonaria e um jornalista sequestrado. E só um especialista em Machado de Assis pode ajudá-lo. Em seu primeiro romance policial, o poeta e crítico literário Flávio Aguiar nos oferece uma trama complexa, ambientada entre Berlim, São Paulo e Porto Alegre e apimentada por escândalos políticos, suspense, digreções sobre alta literatura e uma inesperada grande paixão. Com personagens cativantes – ora cômicos, ora desprezíveis, ora adoráveis –, o mistério vai aos poucos se revelando ao leitor, quase como num convite para revisitarmos o pensamento dessa mulher em milhares que sempre será Capitu.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584741564"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8584741569"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VUanDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VUanDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VUanDgAAQBAJ&pg=PP1&dq=literatura+brasileira&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VUanDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VUanDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VUanDgAAQBAJ&rdid=book-VUanDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_legado_de_Capitu-sample-epub.acsm?id=VUanDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VUanDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em seu primeiro romance policial, o poeta e crítico literário Flávio Aguiar nos oferece uma trama complexa, ambientada entre Berlim, São Paulo e Porto Alegre e apimentada por escândalos políticos, suspense, digressões sobre alta ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MEanDgAAQBAJ",
+   "etag": "bIC99w9vlZs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MEanDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Sinto muito, mas não sou japonesa",
+    "subtitle": "",
+    "authors": [
+     "Noemia Hinata"
+    ],
+    "publisher": "e-galáxia",
+    "publishedDate": "2017-04-12",
+    "description": "Qualquer brasileiro que tenha estudado a língua japonesa passou pelos dicionários japonês-português de Noemia Hinata. Nascida no Brasil, filha de japoneses, vive no Japão desde 1974, onde lecionou literatura brasileira e língua portuguesa em universidades, teve um programa na rádio NHK e escreveu ensaios e deu palestras sobre interculturalidade. Sinto muito, mas não sou japonesa trata dos choques culturais entre Brasil e Japão. Levantando exemplos teóricos e culturais, principalmente da sua grande paixão, o teatro nô, Noemia oferece também um enorme leque de situações cotidianas vividas por ela e seus familiares e amigos. Tudo sem perder o delicioso sotaque dos nipo-brasileiros que tão bem conhecemos no Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584741427"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8584741429"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MEanDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MEanDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MEanDgAAQBAJ&printsec=frontcover&dq=literatura+brasileira&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MEanDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MEanDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MEanDgAAQBAJ&rdid=book-MEanDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sinto_muito_mas_n%C3%A3o_sou_japonesa-sample-epub.acsm?id=MEanDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MEanDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sinto muito, mas não sou japonesa trata dos choques culturais entre Brasil e Japão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fmQtDgAAQBAJ",
+   "etag": "U1hJHnTDMIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fmQtDgAAQBAJ",
+   "volumeInfo": {
+    "title": "A máquina performática",
+    "subtitle": "A literatura no campo experimental",
+    "authors": [
+     "Gonzalo Aguilar",
+     "Mario Cámara"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2017-03-08",
+    "description": "Entrecríticas é um espaço teórico para se pensar a literatura em suas conexões com outras práticas artísticas, reflexões críticas e objetos culturais contemporâneos. É isto que cada um dos ensaios desta coleção de autores latino-americanos persegue, a partir de diferentes perspectivas: abordar a literatura não como um campo fechado em si mesmo, e sim como um movimento em direção a tudo o que a estimula e a transforma. Paloma Vidal No último livro da coleção Entrecríticas, organizada pela escritora, tradutora e professora de Teoria Literária Paloma Vidal, Gonzalo Aguilar e Mario Cámara, professores de Literatura Brasileira na Universidade de Buenos Aires, refletem sobre as relações entre literatura e performance, tanto no que diz respeito às intertextualidades possíveis entre as duas práticas artísticas quanto à sua recepção teórica. Para os autores, o literário é atravessado por aspectos performáticos à medida que põe em cena corpos, espaços e sonoridades que ultrapassam o dado linguístico e mesclam-se a outras políticas do signo e da produção de sentido no campo artístico e cultural.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581226712"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858122671X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fmQtDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fmQtDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fmQtDgAAQBAJ&printsec=frontcover&dq=literatura+brasileira&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fmQtDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fmQtDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.38,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fmQtDgAAQBAJ&rdid=book-fmQtDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 22500000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 21380000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_m%C3%A1quina_perform%C3%A1tica-sample-epub.acsm?id=fmQtDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_m%C3%A1quina_perform%C3%A1tica-sample-pdf.acsm?id=fmQtDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fmQtDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Paloma Vidal No último livro da coleção Entrecríticas, organizada pela escritora, tradutora e professora de Teoria Literária Paloma Vidal, Gonzalo Aguilar e Mario Cámara, professores de Literatura Brasileira na Universidade de Buenos ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u-K0DQAAQBAJ",
+   "etag": "GmVbyXXGTnQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u-K0DQAAQBAJ",
+   "volumeInfo": {
+    "title": "Hospício é deus",
+    "authors": [
+     "Maura Lopes Cançado"
+    ],
+    "publisher": "Autêntica",
+    "publishedDate": "2016-12-12",
+    "description": "Esgotados há anos, o diário Hospício é Deus (1965) e a coletânea de contos O sofredor do ver (1968), de Maura Lopes Cançado, são relançados pela Autêntica em edição especial, reunidos em uma caixa e acrescidos de um perfil biográfico, escrito pelo jornalista Maurício Meireles. Maura, que ambicionava ser a maior escritora da língua portuguesa e que já na adolescência pilotava aviões, saiu do interior de Minas Gerais para Belo Horizonte e, na década de 1950, mudando-se para o Rio de Janeiro, passou a conviver com poetas, artistas e intelectuais, sobretudo do mundo literário. Aclamada como grande revelação da literatura brasileira em seu tempo, sua obra é fortemente marcada por sua experiência como paciente de hospitais psiquiátricos em Minas e no Rio de Janeiro. Entre romances, escândalos e diversas internações, Maura Lopes Cançado publicou, na década de 1960, seus dois livros, que a tornariam uma das autoras mais comentadas da época. Internada – por vontade própria – inúmeras vezes ao longo da vida, Maura encontrou nas palavras uma maneira de se relacionar com sua doença e sua condição de paciente psiquiátrica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582176979"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858217697X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u-K0DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u-K0DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u-K0DQAAQBAJ&printsec=frontcover&dq=literatura+brasileira&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u-K0DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-u-K0DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=u-K0DQAAQBAJ&rdid=book-u-K0DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hosp%C3%ADcio_%C3%A9_deus-sample-epub.acsm?id=u-K0DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hosp%C3%ADcio_%C3%A9_deus-sample-pdf.acsm?id=u-K0DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u-K0DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esgotados há anos, o diário Hospício é Deus (1965) e a coletânea de contos O sofredor do ver (1968), de Maura Lopes Cançado, são relançados pela Autêntica em edição especial, reunidos em uma caixa e acrescidos de um perfil ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GU9wDQAAQBAJ",
+   "etag": "2nXZGfrhz3U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GU9wDQAAQBAJ",
+   "volumeInfo": {
+    "title": "O homem que sabia javanês",
+    "authors": [
+     "Lima Barreto"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2016-11-04",
+    "description": "Esta coletânea reúne alguns dos contos consagrados de Lima Barreto, como “O homem que sabia javanês”, “Um especialista”, “A nova Califórnia”, “Miss Edith e seu tio” e “Como o ‘homem’ chegou”. Autor de suma importância para a literatura brasileira, tem sempre como mote a temática social, retratando as injustiças sofridas pelas minorias e grupos marginalizados da sociedade com um estilo único. Nesta obra se refletem as marcas do preconceito racial do qual foi vítima, além de exemplos de seu estilo irônico, que rompem com o nacionalismo ufanista, presente na literatura feita à época.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577995394"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577995399"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GU9wDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GU9wDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GU9wDQAAQBAJ&pg=PP1&dq=literatura+brasileira&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GU9wDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GU9wDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GU9wDQAAQBAJ&rdid=book-GU9wDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 19900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 18900000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_homem_que_sabia_javan%C3%AAs-sample-epub.acsm?id=GU9wDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_homem_que_sabia_javan%C3%AAs-sample-pdf.acsm?id=GU9wDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GU9wDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta coletânea reúne alguns dos contos consagrados de Lima Barreto, como “O homem que sabia javanês”, “Um especialista”, “A nova Califórnia”, “Miss Edith e seu tio” e “Como o ‘homem’ chegou”."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gX-WBQAAQBAJ",
+   "etag": "EhyDbfXhM3k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gX-WBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Alfabetizar letrando com a literatura infantil",
+    "authors": [
+     "Fábio Cardoso dos Santos",
+     "Fabiano"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2016-06-20",
+    "description": "Com o objetivo de sugerir práticas de letramento literário para crianças em processo de alfabetização, neste livro, os autores destacam características específicas da literatura infantil (como seus aspectos lúdico e onírico), apresentam a trajetória desse gênero literário, ressaltam a sua importância no processo de tradução de saberes e de reinvenção do mundo e revisitam criticamente clássicos infantis. Também são apresentadas propostas de atividades a partir de versões contemporâneas dos clássicos, de livros que contribuem com a transformação do sujeito e do mundo e de obras da literatura infantil que dialogam com outros gêneros do discurso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524922190"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524922192"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 174,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gX-WBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gX-WBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gX-WBQAAQBAJ&pg=PT140&dq=literatura+brasileira&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gX-WBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gX-WBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gX-WBQAAQBAJ&rdid=book-gX-WBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Alfabetizar_letrando_com_a_literatura_in-sample-epub.acsm?id=gX-WBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Alfabetizar_letrando_com_a_literatura_in-sample-pdf.acsm?id=gX-WBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gX-WBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "e de textos de obras da <b>literatura</b> universal (grega, hebraica, chinesa, egípcia, <br>\nromana, árabe, japonesa, medieval, clássica, ... da <b>literatura</b> infantil <b>brasileira</b> <br>\ndesde a obra de Lobato (em que constituem diálogos os mais diversos <br>\npersonagens&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zuvuBgAAQBAJ",
+   "etag": "2yBdXxsPAn4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zuvuBgAAQBAJ",
+   "volumeInfo": {
+    "title": "O peixe pintor",
+    "authors": [
+     "Francisco Stelzer"
+    ],
+    "publisher": "Dash Infantil",
+    "publishedDate": "2016-03-09",
+    "description": "No fundo do mar vivia um peixinho muito talentoso, mas muito tímido e com poucos amigos.Tudo muda quando uma bruxa malvada aparece, e é o simpático peixe pintor que sai ao resgate. Uma adorável história escrita por um jovem leitor, para outros tantos leitores mundo afora.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565056014"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8565056015"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 26,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zuvuBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zuvuBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zuvuBgAAQBAJ&pg=PT2&dq=literatura+brasileira&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zuvuBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zuvuBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zuvuBgAAQBAJ&rdid=book-zuvuBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 18000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 18000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_peixe_pintor-sample-epub.acsm?id=zuvuBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_peixe_pintor-sample-pdf.acsm?id=zuvuBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zuvuBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O peixe parar. &quot;Four#####RelErr Ilustração de Marcelo Cipia - 5ú= Fui lu Dulk <br>\n###rro, Holl. 14 p., il- --&gt;-.- Erri, 15HF127E-85-######1–1 1. <b>Literatura Brasileira</b>. <br>\n2. Carifa. 3. Litaratura. Enfantil. 4. Hirtária iriamnl. LTirada. Il. Cipiu, Har=ria,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2R_ETOzdgSUC",
+   "etag": "hjCIvkGmc5U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2R_ETOzdgSUC",
+   "volumeInfo": {
+    "title": "Formigas de Camisetas Pretas",
+    "authors": [
+     "Soraggi, Paulo Lima"
+    ],
+    "publisher": "KBR EDITORA DIGITAL",
+    "publishedDate": "2015-12-29",
+    "description": "Neste emocionado e emocionante romance narrado em primeira pessoa, com toques autobiográficos do autor, Paulo Soraggi narra a inesperada e ativa cena roqueira dos anos 1990 na cidade de Formiga, interior de Minas Gerais, nos anos 1990. Entre outras o livro aborda a trajetória dos componentes da Anarkaos, importante banda mineira com 3 álbuns gravados, os festivais de época e a influência do rock de Seattle.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581800301"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581800300"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 187,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2R_ETOzdgSUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2R_ETOzdgSUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2R_ETOzdgSUC&pg=PT40&dq=literatura+brasileira&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2R_ETOzdgSUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2R_ETOzdgSUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2R_ETOzdgSUC&rdid=book-2R_ETOzdgSUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 12000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 12000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Formigas_de_Camisetas_Pretas-sample-epub.acsm?id=2R_ETOzdgSUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Formigas_de_Camisetas_Pretas-sample-pdf.acsm?id=2R_ETOzdgSUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2R_ETOzdgSUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... muita benevolência, poderia ser chamado de superior. Assim, me tornei um <br>\naluno semiaplicado do curso de Letras, o que foi essencial para que descobrisse <br>\ndireito a <b>literatura brasileira</b>, paixão que sobrevive até hoje nas minhas estantes."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ww4xCwAAQBAJ",
+   "etag": "BL0Cn68AkwM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ww4xCwAAQBAJ",
+   "volumeInfo": {
+    "title": "A poeira da glória",
+    "subtitle": "Uma (inesperada) história da literatura brasileira",
+    "authors": [
+     "Martim Vasques da Cunha"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2015-12-04",
+    "description": "O livro que até mesmo o politicamente incorreto considerou imprudente Na contramão da análise convencional da literatura brasileira, Martim Vasques da Cunha ousa ao escrever o que estremeceu até mesmo o politicamente incorreto: em A poeira da glória, ele desmonta as teses sustentadas pela repetição da crítica, rechaça o estilo que falseia a sensibilidade moral e recoloca as ideias no lugar ao apontar como e quando a ideologia política envenenou a imaginação artística. Aos que pensavam que a crítica cultural no Brasil – mais que a simplesmente literária – havia encontrado “o fim da história” em Antonio Candido e seus discípulos, uma imensa surpresa: Martim recoloca todas as peças no tabuleiro, inclusive a de Candido. Dono de um texto que convence o leitor por nocaute de argumentos, o ensaísta mostra em detalhes como o país foi brutalizado pela paranoia e mistificação a respeito de si mesmo, de tal maneira que se transformou em um grande “Carandiru intelectual”, o paraíso distópico onde a realidade brasileira gira em falso",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501107121"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501107123"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 630,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ww4xCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ww4xCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ww4xCwAAQBAJ&printsec=frontcover&dq=literatura+brasileira&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ww4xCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ww4xCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 42.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ww4xCwAAQBAJ&rdid=book-ww4xCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 44900000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 42660000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_poeira_da_gl%C3%B3ria-sample-epub.acsm?id=ww4xCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_poeira_da_gl%C3%B3ria-sample-pdf.acsm?id=ww4xCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ww4xCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro que até mesmo o politicamente incorreto considerou imprudente Na contramão da análise convencional da literatura brasileira, Martim Vasques da Cunha ousa ao escrever o que estremeceu até mesmo o politicamente incorreto: em A ..."
+   }
+  }
+ ]

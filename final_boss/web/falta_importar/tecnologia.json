@@ -1,0 +1,3860 @@
+  [{
+   "kind": "books#volume",
+   "id": "CCuSDgAAQBAJ",
+   "etag": "DoVIVpr9PT0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CCuSDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Da internet para a sala de aula",
+    "subtitle": "Educação, tecnologia e comunicação no Brasil",
+    "authors": [
+     "Renata Aquino Ribeiro"
+    ],
+    "publisher": "Paco Editorial",
+    "publishedDate": "2017-01-13",
+    "description": "Este livro traz reflexões sobre os elementos e características das redes digitais e as emergências das novas tecnologias de informação e comunicação, analisando suas interfaces técnicas e seus pressupostos mais complexos e conectivos dentro da relação do que acontece nas salas de aula e das necessidades e expectativas de formação dos profissionais de educação. Nesta obra são discutidas temáticas fundamentais como projetos educacionais, interdisciplinaridade, letramento digital, colaboração, gestão democrática, tendo sempre em vista como as tecnologias podem não apenas ser integradas e incorporadas a essas dimensões do processo educacional, como podem concretizar situações de autoria e autonomia, dar visibilidade para os processos e viabilizar colaborações e, assim, serem meios fundamentais para essas transformações.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546203864"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8546203865"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CCuSDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CCuSDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CCuSDgAAQBAJ&pg=PA1&dq=tecnologia&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CCuSDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CCuSDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CCuSDgAAQBAJ&rdid=book-CCuSDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 28000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 28000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Da_internet_para_a_sala_de_aula-sample-epub.acsm?id=CCuSDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Da_internet_para_a_sala_de_aula-sample-pdf.acsm?id=CCuSDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CCuSDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro traz reflexões sobre os elementos e características das redes digitais e as emergências das novas tecnologias de informação e comunicação, analisando suas interfaces técnicas e seus pressupostos mais complexos e ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8ZG4DQAAQBAJ",
+   "etag": "9nb0R+6vCfc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8ZG4DQAAQBAJ",
+   "volumeInfo": {
+    "title": "Tecnologia Não Destrutiva",
+    "subtitle": "Planejamento, Equipamentos e Métodos",
+    "authors": [
+     "Mohammad Najafi"
+    ],
+    "publisher": "Bookman Editora",
+    "publishedDate": "2016-12-01",
+    "description": "Escrito por um especialista em engenharia de sistemas de tubulações, este livro descreve como planejar, montar o cronograma e implementar projetos não destrutivos de tubulação eficientes e custo-efetivos. A utilização desses métodos cresceu muito nos últimos anos no Brasil e a publicação dessa obra vem preenchar uma lacuna na literatura sobre o assunto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582604106"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582604106"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 600,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8ZG4DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8ZG4DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8ZG4DQAAQBAJ&pg=PR1&dq=tecnologia&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8ZG4DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8ZG4DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 64.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8ZG4DQAAQBAJ&rdid=book-8ZG4DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 84000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 64220000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tecnologia_N%C3%A3o_Destrutiva-sample-pdf.acsm?id=8ZG4DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8ZG4DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Escrito por um especialista em engenharia de sistemas de tubulações, este livro descreve como planejar, montar o cronograma e implementar projetos não destrutivos de tubulação eficientes e custo-efetivos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K7S-DAAAQBAJ",
+   "etag": "Rq0JZttC7c8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K7S-DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Tecnología",
+    "subtitle": "Un enfoque filosófico y otros ensayos de filosofía de la tecnología",
+    "authors": [
+     "Miguel Ángel Quintanilla"
+    ],
+    "publisher": "Fondo de Cultura Economica",
+    "publishedDate": "2016-03-11",
+    "description": "La tecnología transforma la realidad, la manera en que la conocemos e, incluso, nuestros valores éticos; constituye un campo de gran interés para los estudios filosóficos por las repercusiones sociales y económicas del desarrollo tecnológico. Este libro propone un marco general para el estudio filosófico de la tecnología y el desarrollo tecnológico y da elementos para comprender la naturaleza y el valor de la tecnología para la humanidad.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9786071636171"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "6071636175"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K7S-DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K7S-DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=K7S-DAAAQBAJ&pg=PP1&dq=tecnologia&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=K7S-DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-K7S-DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.73,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.73,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=K7S-DAAAQBAJ&rdid=book-K7S-DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 14730000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 14730000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tecnolog%C3%ADa-sample-pdf.acsm?id=K7S-DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K7S-DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "La tecnología transforma la realidad, la manera en que la conocemos e, incluso, nuestros valores éticos; constituye un campo de gran interés para los estudios filosóficos por las repercusiones sociales y económicas del desarrollo ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s48Wk4Nj5EoC",
+   "etag": "5T2uuO1pb6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s48Wk4Nj5EoC",
+   "volumeInfo": {
+    "title": "Dicionário de Administração",
+    "authors": [
+     "Duarte, Geraldo"
+    ],
+    "publisher": "KBR",
+    "publishedDate": "2015-12-29",
+    "description": "Terminologia usual na iniciativa privada e no serviço público, Siglas, jargões e curiosidades da Administração. Indicações temáticas referenciais de verbetes por assunto. Equivalência em inglês dos termos e expressões técnicas. Inclui a Legislação e o Código de Ética da Profissão de Administrador, assim como termos e conceitos utilizados em concursos públicos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564046122"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564046121"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 687,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s48Wk4Nj5EoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s48Wk4Nj5EoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s48Wk4Nj5EoC&pg=PT1391&dq=tecnologia&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s48Wk4Nj5EoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-s48Wk4Nj5EoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=s48Wk4Nj5EoC&rdid=book-s48Wk4Nj5EoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 22000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 22000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_de_Administra%C3%A7%C3%A3o-sample-epub.acsm?id=s48Wk4Nj5EoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_de_Administra%C3%A7%C3%A3o-sample-pdf.acsm?id=s48Wk4Nj5EoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s48Wk4Nj5EoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "<b>Tecnologia</b> de ponta. (1) <b>Tecnologia</b> altamente avançada. (2) Sistema <br>\ntecnológico em evolução constante, classificado comumente por gerações. (3) <br>\n<b>Tecnologia</b> de última geração. (4) O mesmo que &quot;alta <b>tecnologia</b>&quot; Ver: <b>tecnologia</b><br>\n, sistema e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4xlSCwAAQBAJ",
+   "etag": "emy0TK6LTK0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4xlSCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Virtualização - 2ª Edição",
+    "subtitle": "Tecnologia Central do Datacenter",
+    "authors": [
+     "Manoel Veras de Sousa Neto"
+    ],
+    "publisher": "Brasport",
+    "publishedDate": "2015-12-18",
+    "description": "Este livro apresenta uma visão aplicada da virtualização, tecnologia essencial do datacenter. O livro é modular e detalha diversos aspectos teóricos e práticos da virtualização. Como não poderia deixar de ser, trata dos conceitos de computação em nuvem e datacenter, tendo como aspecto central destas estruturas a virtualização. Dividido em quatro partes: visão geral, tecnologia de virtualização, software de virtualização e projeto. Assim, trata desde o conceito de virtualização até as principais tecnologias, com ênfase no hypervisor e em componentes da infraestrutura de TI impactados pela virtualização, sugerindo a arquitetura virtual para o datacenter. Também aborda a arquitetura do VMware vSphere e orienta como fazer um projeto completo de virtualização. O objetivo principal deste livro é contribuir para a formação de arquitetos de datacenters que possuam como elemento central a virtualização. - Explica o que é a virtualização; - Integra o conceito de virtualização com os conceitos de datacenter e computação em nuvem; - Introduz os conceitos de datacenter definido por software, armazenamento definido por software e rede definida por software; - Aborda o principal software corporativo, o vSphere; - Ensina a fazer um projeto de virtualização.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574527611"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574527610"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4xlSCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4xlSCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4xlSCwAAQBAJ&printsec=frontcover&dq=tecnologia&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4xlSCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4xlSCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.83,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4xlSCwAAQBAJ&rdid=book-4xlSCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 44500000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 37830000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Virtualiza%C3%A7%C3%A3o_2%C2%AA_Edi%C3%A7%C3%A3o-sample-epub.acsm?id=4xlSCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Virtualiza%C3%A7%C3%A3o_2%C2%AA_Edi%C3%A7%C3%A3o-sample-pdf.acsm?id=4xlSCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4xlSCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "- Explica o que é a virtualização; - Integra o conceito de virtualização com os conceitos de datacenter e computação em nuvem; - Introduz os conceitos de datacenter definido por software, armazenamento definido por software e rede ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H24UDAAAQBAJ",
+   "etag": "AuNzuM7kURA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H24UDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Tecnologia dos processos têxteis",
+    "authors": [
+     "SENAI-SP Editora"
+    ],
+    "publisher": "SESI SENAI Editora",
+    "publishedDate": "2015-11-05",
+    "description": "Neste livro, que compõe os cursos do SENAI-SP (técnico, formação inicial e continuada), você vai conhecer todo o processo de classificação, descrição, características, propriedades e métodos de identificação das fibras têxteis. Além disso, você terá contato com os principais tipos fiação, formação do tecido e padronagem de tecidos planos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788583932628"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858393262X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H24UDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H24UDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H24UDAAAQBAJ&pg=PA1&dq=tecnologia&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H24UDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H24UDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H24UDAAAQBAJ&rdid=book-H24UDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 26400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 26400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tecnologia_dos_processos_t%C3%AAxteis-sample-epub.acsm?id=H24UDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tecnologia_dos_processos_t%C3%AAxteis-sample-pdf.acsm?id=H24UDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H24UDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, que compõe os cursos do SENAI-SP (técnico, formação inicial e continuada), você vai conhecer todo o processo de classificação, descrição, características, propriedades e métodos de identificação das fibras têxteis ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cZGQCgAAQBAJ",
+   "etag": "NYYx1IKBIV8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cZGQCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Trabajar en la era digital",
+    "subtitle": "Tecnología y competencias para la transformación digital",
+    "authors": [
+     "Luis Lombardero"
+    ],
+    "publisher": "LID Editorial",
+    "publishedDate": "2015-09-18",
+    "description": "Dominar la tecnología y las competencias que están transformando las empresas es lo que te propone este libro. Internet está recibiendo el impulso de las tecnologías emergentes que transforman las compañías tradicionales, cambiando el modelo productivo y creando nuevos empleos. A tu alrededor puedes ver cómo las empresas de todos los sectores están trasladando el crecimiento del PIB y el empleo a las actividades digitales, donde aparecen nuevas ocupaciones para las que se necesitan nuevas competencias duras que dan lugar a una revolución en el trabajo de directivos, técnicos y del trabajo cualificado. Este libro te ayudará a comprender la transformación digital por medio de tecnologías como la movilidad, Cloud Computing, Big Data, Internet de las cosas (IoT), Smart Cities o la Industria 4.0, que digitalizan nuestros domicilios, hacen las ciudades más inteligentes y transforman el trabajo en las fábricas del futuro. En Trabajar en la era digital, encontrarás el listado de competencias necesarias para tu futuro, así como la relación de nuevas ocupaciones con empleo y las herramientas para desarrollarlas. Lo que debes saber sobre qué tecnologías y modelos de negocio necesitas dominar, cómo innovar y desarrollar nuevos productos y servicios digitales, qué mercados tienen más futuro, cómo será el trabajo distribuido globalmente, virtualizado y mercantilizado. La era digital abre grandes oportunidades para titulados universitarios de todas las áreas con competencias para contribuir a la digitalización de las empresas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788483561034"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8483561034"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cZGQCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cZGQCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=cZGQCgAAQBAJ&pg=PP1&dq=tecnologia&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cZGQCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cZGQCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cZGQCgAAQBAJ&rdid=book-cZGQCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 33990000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 33990000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Trabajar_en_la_era_digital-sample-epub.acsm?id=cZGQCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Trabajar_en_la_era_digital-sample-pdf.acsm?id=cZGQCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cZGQCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "En Trabajar en la era digital, encontrarás el listado de competencias necesarias para tu futuro, así como la relación de nuevas ocupaciones con empleo y las herramientas para desarrollarlas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wLTaCQAAQBAJ",
+   "etag": "NgpgS2g/mX4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wLTaCQAAQBAJ",
+   "volumeInfo": {
+    "title": "História, Ciência e Tecnologia da Carne Bovina",
+    "subtitle": "",
+    "authors": [
+     "Vasco Picchi "
+    ],
+    "publisher": "Paco Editorial",
+    "publishedDate": "2015-05-01",
+    "description": "Este livro é uma obra abrangente sobre a bilionária indústria frigorífica brasileira, fundamentada em décadas de experiência do autor nesse setor. O livro fornece uma visão completa do processo de produção de carne, desde a implantação de frigoríficos até a embalagem do produto final. Um verdadeiro manual sobre a indústria frigorífica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581488943"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581488943"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 452,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wLTaCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wLTaCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wLTaCQAAQBAJ&printsec=frontcover&dq=tecnologia&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wLTaCQAAQBAJ&dq=tecnologia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_Ci%C3%AAncia_e_Tecnologia_da_Carne.html?hl=&id=wLTaCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_Ci%C3%AAncia_e_Tecnologia_da_Carne-sample-pdf.acsm?id=wLTaCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wLTaCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro é uma obra abrangente sobre a bilionária indústria frigorífica brasileira, fundamentada em décadas de experiência do autor nesse setor."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l73IBgAAQBAJ",
+   "etag": "qwGzYVLKJi4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l73IBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Cardápio digital",
+    "subtitle": "Tecnologia aliada a gastronomia",
+    "authors": [
+     "Carlos Adriano Tanaka",
+     "Osmar V.",
+     "Mateus Machado de Lima"
+    ],
+    "publisher": "Revolução eBook",
+    "publishedDate": "2015-02-11",
+    "description": "Os principais métodos utilizados para mensurar a qualidade do atendimento prestado atualmente em bares e restaurantes são considerados ultrapassados, levando em conta o tempo de espera, os gastos e a agilidade, segundo relatos de gestores, desses locais, em entrevistas realizadas na elaboração deste trabalho. Quando se fala em um sistema integrado, que utilizará qualquer dispositivo móvel com acesso à Internet, proporcionando maior comodidade ao consumidor final, acessando todos os pratos, bebidas, promoções e etc., o mesmo poderá realizar seu próprio pedido, que será enviado automaticamente até o preparo, com o uso prático do sistema. Este livro tem o intuito de fala sobre o avanço da tecnologia na gastronomia sobre cardápio digital, refere-se à Engenharia de Software, Linguagem de programação e Banco de Dados, envolvendo assuntos como marketing, design e sustentabilidade, utilizando recursos de sistema móvel para a criação do cardápio digital que irá fornecer informações mais detalhadas para o consumidor em relação aos ingredientes do prato, valor energético, vitaminas e etc., evitando assim, que o cliente consuma um produto que provoque reações alérgicas. O consumidor saberá também das promoções, o prato do dia, dicas e recomendações do chef (melhor bebida para acompanhamento), o valor do pedido e o tempo de preparo de cada pedido, com retorno em tempo real.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781942159728"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1942159722"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 77,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=l73IBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=l73IBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=l73IBgAAQBAJ&pg=PP22&dq=tecnologia&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=l73IBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-l73IBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.58,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=l73IBgAAQBAJ&rdid=book-l73IBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9500000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5580000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Card%C3%A1pio_digital-sample-epub.acsm?id=l73IBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Card%C3%A1pio_digital-sample-pdf.acsm?id=l73IBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=l73IBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Evolução do cardápio em papel para <b>tecnologia</b> A implantação da <b>tecnologia</b>, <br>\nquando bem estabelecida, pode gerar maior eficiência nos processos, maior <br>\nlucratividade e mais satisfação dos consumidores. “Afirmar que a maior parte do<br>\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KbXfBQAAQBAJ",
+   "etag": "PAF9jaXHBQo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbXfBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Práticas em Tecnologia de Alimentos",
+    "subtitle": "",
+    "authors": [
+     "Cássia Regina Nespolo",
+     "Fernanda Arboite de Oliveira",
+     "Flávia Santos Twardowski Pinto",
+     "Florencia Cladera Olivera"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2015-01-01",
+    "description": "Este livro aborda os conhecimentos necessários para a compreensão das reações e dos processos envolvidos no desenvolvimento, na produção e no armazenamento de alimentos de origem vegetal e animal. A apresentação do conteúdo teórico é seguida por diversas práticas que possibilitam a realização de experimentos aplicados à indústria de alimentos, contribuindo para o aprofundamento dos conceitos teóricos abordados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582711965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582711964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KbXfBQAAQBAJ&printsec=frontcover&dq=tecnologia&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KbXfBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 49.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&rdid=book-KbXfBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 66400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 49210000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A1ticas_em_Tecnologia_de_Alimentos-sample-pdf.acsm?id=KbXfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KbXfBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro aborda os conhecimentos necessários para a compreensão das reações e dos processos envolvidos no desenvolvimento, na produção e no armazenamento de alimentos de origem vegetal e animal."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KbXfBQAAQBAJ",
+   "etag": "NdYSMe2hYGA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbXfBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Práticas em Tecnologia de Alimentos",
+    "subtitle": "",
+    "authors": [
+     "Cássia Regina Nespolo",
+     "Fernanda Arboite de Oliveira",
+     "Flávia Santos Twardowski Pinto",
+     "Florencia Cladera Olivera"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2015-01-01",
+    "description": "Este livro aborda os conhecimentos necessários para a compreensão das reações e dos processos envolvidos no desenvolvimento, na produção e no armazenamento de alimentos de origem vegetal e animal. A apresentação do conteúdo teórico é seguida por diversas práticas que possibilitam a realização de experimentos aplicados à indústria de alimentos, contribuindo para o aprofundamento dos conceitos teóricos abordados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582711965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582711964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KbXfBQAAQBAJ&pg=PA1&dq=tecnologia&hl=&cd=11&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KbXfBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 49.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&rdid=book-KbXfBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 66400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 49210000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A1ticas_em_Tecnologia_de_Alimentos-sample-pdf.acsm?id=KbXfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KbXfBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "capítulo 1 Introdução à <b>tecnologia</b> de alimentos Qualquer método ou técnica de <br>\nprocessamento de alimentos envolve uma combinação de procedimentos ou <br>\noperações unitárias que modificam as características da matéria-prima. <br>\nAtualmente&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KbXfBQAAQBAJ",
+   "etag": "Bte9LnSuyVc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbXfBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Práticas em Tecnologia de Alimentos",
+    "subtitle": "",
+    "authors": [
+     "Cássia Regina Nespolo",
+     "Fernanda Arboite de Oliveira",
+     "Flávia Santos Twardowski Pinto",
+     "Florencia Cladera Olivera"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2015-01-01",
+    "description": "Este livro aborda os conhecimentos necessários para a compreensão das reações e dos processos envolvidos no desenvolvimento, na produção e no armazenamento de alimentos de origem vegetal e animal. A apresentação do conteúdo teórico é seguida por diversas práticas que possibilitam a realização de experimentos aplicados à indústria de alimentos, contribuindo para o aprofundamento dos conceitos teóricos abordados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582711965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582711964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KbXfBQAAQBAJ&pg=PA135&dq=tecnologia&hl=&cd=12&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KbXfBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 49.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&rdid=book-KbXfBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 66400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 49210000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A1ticas_em_Tecnologia_de_Alimentos-sample-pdf.acsm?id=KbXfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KbXfBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "capítulo 7 <b>Tecnologia</b> de alimentos de origem animal A transformação de <br>\nalimentos de origem animal em derivados pode envolver etapas aplicadas às <br>\nmatérias-primas que levam à diminuição da Aw, a modificações da temperatura <br>\ne/ou&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KbXfBQAAQBAJ",
+   "etag": "Er+Vtzdlsog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbXfBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Práticas em Tecnologia de Alimentos",
+    "subtitle": "",
+    "authors": [
+     "Cássia Regina Nespolo",
+     "Fernanda Arboite de Oliveira",
+     "Flávia Santos Twardowski Pinto",
+     "Florencia Cladera Olivera"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2015-01-01",
+    "description": "Este livro aborda os conhecimentos necessários para a compreensão das reações e dos processos envolvidos no desenvolvimento, na produção e no armazenamento de alimentos de origem vegetal e animal. A apresentação do conteúdo teórico é seguida por diversas práticas que possibilitam a realização de experimentos aplicados à indústria de alimentos, contribuindo para o aprofundamento dos conceitos teóricos abordados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582711965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582711964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KbXfBQAAQBAJ&pg=PA169&dq=tecnologia&hl=&cd=13&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KbXfBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 49.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&rdid=book-KbXfBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 66400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 49210000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A1ticas_em_Tecnologia_de_Alimentos-sample-pdf.acsm?id=KbXfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KbXfBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "capítulo 8 Análise sensorial aplicada à <b>tecnologia</b> de alimentos A análise <br>\nsensorial compreende um conjunto de técnicas utilizadas para a medição de <br>\natributos sensoriais a partir de respostas humanas. As informações obtidas por <br>\nmeio da&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KbXfBQAAQBAJ",
+   "etag": "/0cfiu5sEic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbXfBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Práticas em Tecnologia de Alimentos",
+    "subtitle": "",
+    "authors": [
+     "Cássia Regina Nespolo",
+     "Fernanda Arboite de Oliveira",
+     "Flávia Santos Twardowski Pinto",
+     "Florencia Cladera Olivera"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2015-01-01",
+    "description": "Este livro aborda os conhecimentos necessários para a compreensão das reações e dos processos envolvidos no desenvolvimento, na produção e no armazenamento de alimentos de origem vegetal e animal. A apresentação do conteúdo teórico é seguida por diversas práticas que possibilitam a realização de experimentos aplicados à indústria de alimentos, contribuindo para o aprofundamento dos conceitos teóricos abordados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582711965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582711964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KbXfBQAAQBAJ&pg=PA189&dq=tecnologia&hl=&cd=14&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KbXfBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 49.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&rdid=book-KbXfBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 66400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 49210000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A1ticas_em_Tecnologia_de_Alimentos-sample-pdf.acsm?id=KbXfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KbXfBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KbXfBQAAQBAJ",
+   "etag": "BuTTjrv9Ra4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbXfBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Práticas em Tecnologia de Alimentos",
+    "subtitle": "",
+    "authors": [
+     "Cássia Regina Nespolo",
+     "Fernanda Arboite de Oliveira",
+     "Flávia Santos Twardowski Pinto",
+     "Florencia Cladera Olivera"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2015-01-01",
+    "description": "Este livro aborda os conhecimentos necessários para a compreensão das reações e dos processos envolvidos no desenvolvimento, na produção e no armazenamento de alimentos de origem vegetal e animal. A apresentação do conteúdo teórico é seguida por diversas práticas que possibilitam a realização de experimentos aplicados à indústria de alimentos, contribuindo para o aprofundamento dos conceitos teóricos abordados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582711965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582711964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KbXfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KbXfBQAAQBAJ&pg=PA11&dq=tecnologia&hl=&cd=15&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KbXfBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 49.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KbXfBQAAQBAJ&rdid=book-KbXfBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 66400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 49210000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A1ticas_em_Tecnologia_de_Alimentos-sample-pdf.acsm?id=KbXfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KbXfBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sj5mCQAAQBAJ",
+   "etag": "VjeiKJyU/LM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sj5mCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Formação de professores e as novas tecnologias em educação: uma reflexão necessária",
+    "subtitle": "",
+    "authors": [
+     "Carmen Tereza Velanga",
+     "José Lucas Pedreira Bueno",
+     "Rosangela Aparecida Hilário",
+     "Tania Suely Azevedo Brasileiro"
+    ],
+    "publisher": "Pandion",
+    "publishedDate": "2014-12-31",
+    "description": "A tecnologia na educação ainda se constitui em um tema polêmico, considerado, por vezes, desalentador nos processos de formação. No entanto, são frequentes as boas experiências desenvolvidas por educadores de todas as etapas e níveis de ensino, por todo o país. Entretanto, estas iniciativas localizadas não conseguem se expandir e, como “o que não cresce, retroage”, essas experiências, com o passar do tempo e com o afastamento daqueles que as implementaram, tendem a se enfraquecer e desaparecer. Realidades como essas são, fundamentalmente, consequência da falta de continuidade administrativa resultado da interferência político partidária e suas ideologias nas administrações públicas. O momento de profundas mudanças que vivenciamos exige organização e coerência para o uso da tecnologia na formulação de projetos de formação de professores, e metodologias pedagógicas como ferramentas possíveis no estabelecimento de uma política educacional que promova, efetivamente, a igualdade de oportunidades no interior da escola pública. As reflexões e propostas contidas neste livro contemplam um amplo leque de questões relacionadas à temática.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584750078"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858475007X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 252,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sj5mCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sj5mCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sj5mCQAAQBAJ&pg=PP1&dq=tecnologia&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sj5mCQAAQBAJ&dq=tecnologia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Forma%C3%A7%C3%A3o_de_professores_e_as_novas_tec.html?hl=&id=sj5mCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Forma%C3%A7%C3%A3o_de_professores_e_as_novas_tec-sample-pdf.acsm?id=sj5mCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sj5mCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A tecnologia na educação ainda se constitui em um tema polêmico, considerado, por vezes, desalentador nos processos de formação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "3lLbYYMcKGI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT31&dq=tecnologia&hl=&cd=17&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "1.1 Sobre o Conceito de <b>Tecnologia</b> A <b>tecnologia</b> tem estado presente em cada <br>\nvez mais espaços da vida social. Percebese que os microcomputadores, um dos <br>\nprincipais sinais das atuais inovações tecnológicas, são absorvidos nas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "rhRvlOIZzeI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT9&dq=tecnologia&hl=&cd=18&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Distribuição absoluta GRÁFICO 16 Considerase um “excluído digital”? <br>\nDistribuição relativa GRÁFICO 17 A <b>Tecnologia</b> da Informação pode contribuir <br>\npara o fortalecimento do Projeto ÉticoPolítico Profissional? Distribuição absoluta <br>\nGRÁFICO&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "z9OOC2fRNuc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT75&dq=tecnologia&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na questão da incorporação da TI ao trabalho profissional, por exemplo, atua <br>\nnão apenas na constituição de obstáculos ou resistências à absorção da <br>\n<b>tecnologia</b>, no plano mais imediato do trabalho profissional, mas, também, na <br>\nprópria&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "Y+R7HpRRoSE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT7&dq=tecnologia&hl=&cd=20&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "PREFÁCIO Marilda Villela Iamamoto APRESENTAÇÃO INTRODUÇÃO <br>\nCAPÍTULO 1 <b>Tecnologia</b> e Relações Sociais 1.1 Sobre o Conceito de <br>\n<b>Tecnologia</b> 1.2 A “Revolução” da <b>Tecnologia</b> 1.3 As Expressões Atuais da <br>\n<b>Tecnologia</b> CAPITULO 2&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "HZ6046RRpg0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT76&dq=tecnologia&hl=&cd=21&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "203), concluindo que a <b>tecnologia</b> não leva necessariamente a uma evolução do <br>\ntrabalho, mas, sobretudo, abre diversos campos possíveis de evolução. Assim, <br>\nde acordo com a autora, qualquer estudo desta questão que não leve em conta&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "BrgcPcLhnmM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT16&dq=tecnologia&hl=&cd=22&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O presente livro consiste numa versão revista da tese de doutoramento intitulada <br>\n<b>Tecnologia</b> da Informação: contribuição importante para o exercício profissional, <br>\ndefendida no Programa de PósGraduação em Serviço Social da UFRJ."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "KNp6N3h2KeE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT12&dq=tecnologia&hl=&cd=23&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro de Renato Veloso, Serviço Social, <b>Tecnologia</b> da Informação e Trabalho, <br>\nvem adensar o debate em torno da importância da <b>Tecnologia</b> da Informação (TI) <br>\n— em particular a informática e a Internet — para o trabalho cotidiano dos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "DpEm1zfy4kU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT98&dq=tecnologia&hl=&cd=24&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como lembra Barreto (2004), um sério problema presente no uso das novas <br>\n<b>tecnologias</b> é o acesso a elas na condição de usuário ou consumidor apenas. <br>\nIsso significa que é possível, por exemplo, que o acesso à Internet pelos(as)&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "7GpqnOQ/fG0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT20&dq=tecnologia&hl=&cd=25&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O objetivo deste livro é apresentar uma reflexão sobre a importância da <br>\n<b>Tecnologia</b> da Informação (TI) para o exercício profissional dos(as) Assistentes <br>\nSociais, tentando apreender em que medida sua incidência no trabalho <br>\ncotidiano pode&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "HjZqui0ALdo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT87&dq=tecnologia&hl=&cd=26&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Isso não significa que a categoria tenha aderido à Internet ou, ainda, tenha se <br>\napropriado das possibilidades oferecidas por essa <b>tecnologia</b>. As pistas aqui <br>\nobtidas demonstram que uma parcela vem tentando estabelecer algum tipo de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "eVFc7+4gQqI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT132&dq=tecnologia&hl=&cd=27&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Renato Veloso. eficiência e eficácia relacionada aos computadores e à <br>\n<b>tecnologia</b>, além de seu caráter de imprescindibilidade. O que tem sido <br>\ndivulgado é que, desde o seu surgimento, o computador não parou de <br>\ntransformarse, tornandose&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "nNzddGZmflg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT92&dq=tecnologia&hl=&cd=28&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um dos temas que mais chamam a atenção na atualidade, tendo em vista o <br>\ndesenvolvimento cada vez mais acelerado das novas <b>tecnologias</b>, referese a um <br>\nfenômeno que vem sendo denominado de “exclusão digital”, considerado,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "WY1EirQE5jg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT90&dq=tecnologia&hl=&cd=29&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "GRÁFICO 13 Já teve acesso a materiais, textos ou participou de eventos sobre o <br>\ntema “<b>Tecnologia</b> da Informação e Serviço Social” — Distribuição absoluta — <br>\nTotal de casos: 1.440 Fonte: SSTI, 2005. Há um expressivo predomínio da&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "u3UAjllshBU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT185&dq=tecnologia&hl=&cd=30&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não se trata, no entanto, de uma mera injeção de recursos tecnológicos <br>\nmodernos, destacandose os computadores e impressoras, mas uma política de <br>\nincorporação da <b>tecnologia</b> que contemple as várias dimensões presentes neste<br>\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "kAhZryIvijs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT99&dq=tecnologia&hl=&cd=31&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... uma questão sobre este ponto, indagandoos se a TI poderia contribuir para o <br>\nfortalecimento de nosso projeto profissional. O resultado verificado encontrase <br>\nno Gráfico 17. GRÁFICO 17 A <b>Tecnologia</b> da Informação pode contribuir para o."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "Yp1ccrBSSfk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT63&dq=tecnologia&hl=&cd=32&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "Q856BVnBJU4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT102&dq=tecnologia&hl=&cd=33&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "uQ/kpmwYD+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT71&dq=tecnologia&hl=&cd=34&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "BGebprhnULM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT86&dq=tecnologia&hl=&cd=35&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "oAsHw6HSKHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT73&dq=tecnologia&hl=&cd=36&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "KMQhaZEfPNs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT203&dq=tecnologia&hl=&cd=37&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "IO4wT2Y0jfI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT123&dq=tecnologia&hl=&cd=38&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gsjFAwAAQBAJ",
+   "etag": "XjZmmnrK4aI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gsjFAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Serviço social, tecnologia da informação e trabalho",
+    "authors": [
+     "Renato Veloso"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2014-11-07",
+    "description": "Uma análise refinada sobre a importância do uso da Tecnologia da Informação (TI) nos processos de trabalho em que se inserem os assistentes sociais. Ao perceber na TI um potencial contraditório, o autor concebe a possibilidade de sua utilização em benefício da cidadania e do cumprimento de Projeto Ético-Político do Serviço Social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524920912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524920912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gsjFAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gsjFAwAAQBAJ&pg=PT83&dq=tecnologia&hl=&cd=39&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gsjFAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gsjFAwAAQBAJ&rdid=book-gsjFAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36400000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-epub.acsm?id=gsjFAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Servi%C3%A7o_social_tecnologia_da_informa%C3%A7-sample-pdf.acsm?id=gsjFAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gsjFAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "plgaBQAAQBAJ",
+   "etag": "3CtqfCqpAlQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/plgaBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Tecnologia da Informação e Comunicação",
+    "authors": [
+     "Luis Pinochet"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2014-10-28",
+    "description": "Livro-texto para a disciplina Tecnologia da Informação e Comunicação e Fundamentos de sistemas de informação, ministrada nos cursos de Ciências da Computação e Administração principalmente. O livro aborda a relação dos recursos computacionais com a interação entre os eixos: social, organizacional, e pessoal buscando compreender os benefícios e os desafios que o uso destes recursos trazem para cada eixo associado. O livro contempla os efeitos que estão conduzindo os recursos computacionais com base nas tecnologias de informação e comunicação consideradas “emergentes” como a escolha de uma tecnologia, o tratamento e preocupações vinculadas ao lado humano da tecnologia, questões transversais como a responsabilidade social, aspectos éticos de uso da tecnologia, qualidade de vida, saúde, o incentivo e desenvolvimento dos países com base em organizações públicas e privadas que investem em inovação, patentes, P&D - Pesquisa e Desenvolvimento, Startups, Incubadoras, polos tecnológicos, redes sociais, crowdsourcing, entre outros modelos e estratégias. O livro também traz uma revisão histórica das principais tecnologias de informação e comunicação que determinaram tendências e conduziram o mercado para o mundo da inovação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535277890"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535277897"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=plgaBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=plgaBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=plgaBQAAQBAJ&printsec=frontcover&dq=tecnologia&hl=&cd=40&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=plgaBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-plgaBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 68.19,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 68.19,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=plgaBQAAQBAJ&rdid=book-plgaBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 68190000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 68190000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tecnologia_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7-sample-epub.acsm?id=plgaBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tecnologia_da_Informa%C3%A7%C3%A3o_e_Comunica%C3%A7-sample-pdf.acsm?id=plgaBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=plgaBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Livro-texto para a disciplina Tecnologia da Informação e Comunicação e Fundamentos de sistemas de informação, ministrada nos cursos de Ciências da Computação e Administração principalmente."
+   }
+  }]

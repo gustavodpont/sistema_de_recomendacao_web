@@ -1,0 +1,920 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "7PekDgAAQBAJ",
+   "etag": "PJlPrlN9QcU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7PekDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Sem Segredo",
+    "subtitle": "A psicologia analisando a auto-ajuda: o que dá certo e o que não resolve",
+    "authors": [
+     "Claudio Bastidas"
+    ],
+    "publisher": "Novatec Editora",
+    "publishedDate": "2017-04-10",
+    "description": "Sem dúvida alguma, a \"auto-ajuda\" tornou-se um sucesso no mercado e produz uma enorme quantidade de livros, DVDs, palestras, CDs, filmes e outros materiais a cada ano. Escrito em linguagem acessível, o livro que você tem em mãos compara os conselhos que a auto-ajuda oferece com o que foi comprovado cientificamente pela Psicologia sobre os seguintes assuntos: - dinheiro e finanças pessoais; - relacionamentos amorosos e sexualidade; - saúde e beleza; - obesidade; - doenças; - envelhecimento; - a \"lei da atração\" e o \"magnetismo do Universo\"; - pensamentos \"positivos e negativos\"; - o papel dos sentimentos e desejos; - a imaginação de coisas boas para mudanças na vida; - o Universo criando o que você pede. Do ponto de vista da Psicologia, o livro explica quais são os efeitos ocasionados pela auto-ajuda e também seus limites, ou seja, o que a auto-ajuda \"não resolve\". Além disso, são apresentados pela Psicologia novos caminhos para você lidar com as questões abordadas pela auto-ajuda. A Psicologia trabalha de acordo com a metodologia científica (realiza experimentos, coleta de dados, testes de hipóteses e outros procedimentos), mas não descarta preconceituosamente um fenômeno antes de examiná-lo. Como qualquer área ou disciplina da ciência, a Psicologia busca o \"como\" e o \"porquê\" dos fenômenos psicológicos. Assim, diante da grande procura pela auto-ajuda, a Psicologia pergunta: \"Quais benefícios a auto-ajuda pode trazer para o público? Quais mecanismos psicológicos estão em jogo? Que dificuldades a auto-ajuda não soluciona?\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575225608"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857522560X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7PekDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7PekDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7PekDgAAQBAJ&pg=PP1&dq=psicologia&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7PekDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7PekDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7PekDgAAQBAJ&rdid=book-7PekDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 23200000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 21760000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sem_Segredo-sample-epub.acsm?id=7PekDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sem_Segredo-sample-pdf.acsm?id=7PekDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7PekDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sem dúvida alguma, a &quot;auto-ajuda&quot; tornou-se um sucesso no mercado e produz uma enorme quantidade de livros, DVDs, palestras, CDs, filmes e outros materiais a cada ano."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EfikDgAAQBAJ",
+   "etag": "JeTU2doSij0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EfikDgAAQBAJ",
+   "volumeInfo": {
+    "title": "A Psicologia e o seu Dinheiro",
+    "subtitle": "Entenda os fatores psicológicos que afetam sua relação com o dinheiro e tenha uma vida melhor",
+    "authors": [
+     "Claudio Bastidas"
+    ],
+    "publisher": "Novatec Editora",
+    "publishedDate": "2017-04-10",
+    "description": "A proposta deste livro é levá-lo, por meio de exemplos e perguntas, a refletir sobre os aspectos psicológicos presentes em seu modo de lidar com o dinheiro e discutir os fatores psicológicos que levam cada um de nós a viver de forma tão diferente com as finanças, por exemplo: estar constantemente endividado; comprar demais; esperar mudanças \"mágicas\" (loterias, sorte); ter medo da inveja dos outros; ser organizado com as próprias contas; gastar pouco e poupar; considerar-se poderoso ao possuir objetos de alto valor; sentir-se inseguro no amor por não ter dinheiro; pensar que o dinheiro pode trazer mais beleza; Em linguagem acessível, o livro convida-o a refletir sobre si mesmo e a perceber melhor suas potencialidades, além de apontar algumas possibilidades para mudar o que não está satisfatório em sua relação com o dinheiro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575225615"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575225618"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EfikDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EfikDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EfikDgAAQBAJ&pg=PP1&dq=psicologia&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EfikDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EfikDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EfikDgAAQBAJ&rdid=book-EfikDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 23200000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 23200000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Psicologia_e_o_seu_Dinheiro-sample-epub.acsm?id=EfikDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Psicologia_e_o_seu_Dinheiro-sample-pdf.acsm?id=EfikDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EfikDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A proposta deste livro é levá-lo, por meio de exemplos e perguntas, a refletir sobre os aspectos psicológicos presentes em seu modo de lidar com o dinheiro e discutir os fatores psicológicos que levam cada um de nós a viver de forma ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7QGgDgAAQBAJ",
+   "etag": "E1AD9CqY5Kk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7QGgDgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Suicídio do Estudante de Psicologia",
+    "subtitle": "",
+    "authors": [
+     "Stélio Inácio"
+    ],
+    "publisher": "Stélio Inácio",
+    "publishedDate": "2017-03-21",
+    "description": "O Suicídio é o maior ato filosófico do homem. Este texto segue um estudante de filosofia que depois de decidir colocar um fim a sua vida caminha meditando sobre a existência, sobre a alma inspirado no seu ídolo Sigmund Freud. Livro visto como a incontestável obra prima de Stélio Inácio, esta obra ganhou um prémio de uma Universidade em 2006. Este livro não é aconselhável a pessoas que sofrem de depressão crónica.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 20,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7QGgDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7QGgDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7QGgDgAAQBAJ&printsec=frontcover&dq=psicologia&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7QGgDgAAQBAJ&dq=psicologia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Suic%C3%ADdio_do_Estudante_de_Psicologia.html?hl=&id=7QGgDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7QGgDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Livro visto como a incontestável obra prima de Stélio Inácio, esta obra ganhou um prémio de uma Universidade em 2006. Este livro não é aconselhável a pessoas que sofrem de depressão crónica."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z45ODgAAQBAJ",
+   "etag": "TrlwzoLpgeM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z45ODgAAQBAJ",
+   "volumeInfo": {
+    "title": "Psicologia social do racismo",
+    "subtitle": "Estudos sobre branquitude e branqueamento no Brasil",
+    "authors": [
+     "Iray Carone",
+     "Maria Aparecida Silva Bento"
+    ],
+    "publisher": "Editora Vozes Limitada",
+    "publishedDate": "2017-03-10",
+    "description": "O livro parte de um estudo feito pelas organizadoras sobre a negritude em São Paulo, objetivando captar os efeitos psicológicos do legado do branqueamento sobre o processo de construção da identidade negra. Através dos resultados desta pesquisa, as autoras organizaram esta obra como um tributo capaz de desencadear um debate e uma reflexão conscientizadores sobre os efeitos psicológicos provocados pelo racismo na sociedade brasileira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532651037"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8532651038"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Z45ODgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Z45ODgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Z45ODgAAQBAJ&printsec=frontcover&dq=psicologia&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Z45ODgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Z45ODgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Z45ODgAAQBAJ&rdid=book-Z45ODgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 39000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 39000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Psicologia_social_do_racismo-sample-epub.acsm?id=Z45ODgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Psicologia_social_do_racismo-sample-pdf.acsm?id=Z45ODgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Z45ODgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro parte de um estudo feito pelas organizadoras sobre a negritude em São Paulo, objetivando captar os efeitos psicológicos do legado do branqueamento sobre o processo de construção da identidade negra."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZPfzDAAAQBAJ",
+   "etag": "dQXa8Ycpfxo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZPfzDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Psicologia do Cotidiano",
+    "subtitle": "Como vivemos, pensamos e nos relacionamos hoje",
+    "authors": [
+     "Cristiano Nabuco de Abreu"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2016-09-01",
+    "description": "Renomado psicólogo, professor e autor, o dr. Cristiano Nabuco de Abreu promove, neste livro, quase que uma conversa com o leitor, em que aborda os mais diversos temas do dia a dia contemporâneo – como o uso da tecnologia, os relacionamentos, a criação dos filhos, entre outros –, analisados sob o ponto de vista da psicologia e embasados pelas mais recentes pesquisas na área.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582713396"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582713398"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZPfzDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZPfzDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZPfzDAAAQBAJ&pg=PP1&dq=psicologia&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZPfzDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZPfzDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 53.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZPfzDAAAQBAJ&rdid=book-ZPfzDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 53600000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 36410000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Psicologia_do_Cotidiano-sample-epub.acsm?id=ZPfzDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Psicologia_do_Cotidiano-sample-pdf.acsm?id=ZPfzDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZPfzDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cristiano Nabuco de Abreu promove, neste livro, quase que uma conversa com o leitor, em que aborda os mais diversos temas do dia a dia contemporâneo – como o uso da tecnologia, os relacionamentos, a criação dos filhos, entre outros – ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EzuSDgAAQBAJ",
+   "etag": "aPdV0v/BKr4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EzuSDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Da Psicologia Social à Psicologia do Desenvolvimento",
+    "subtitle": "Pesquisas e temáticas no século XXI",
+    "authors": [
+     "Fernanda Helena de Freitas Miranda"
+    ],
+    "publisher": "Paco Editorial",
+    "publishedDate": "2016-08-09",
+    "description": "Esta obra dá visibilidade a temas delicados, tais como o autismo, o tratamento da hanseníase, a escravidão humana, o preconceito, a aprendizagem e tantos outros assuntos que são muito caros à formação e atuação de profissionais diversos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581482019"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581482015"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EzuSDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EzuSDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EzuSDgAAQBAJ&printsec=frontcover&dq=psicologia&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EzuSDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EzuSDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EzuSDgAAQBAJ&rdid=book-EzuSDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 33550000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 33550000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Da_Psicologia_Social_%C3%A0_Psicologia_do_De-sample-epub.acsm?id=EzuSDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Da_Psicologia_Social_%C3%A0_Psicologia_do_De-sample-pdf.acsm?id=EzuSDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EzuSDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra dá visibilidade a temas delicados, tais como o autismo, o tratamento da hanseníase, a escravidão humana, o preconceito, a aprendizagem e tantos outros assuntos que são muito caros à formação e atuação de profissionais ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AASpDAAAQBAJ",
+   "etag": "bx8pcOknvd4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AASpDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Fundamentos da Psicologia Cultural",
+    "subtitle": "Mundos da Mente, Mundos da Vida",
+    "authors": [
+     "Jaan Valsiner"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2016-07-01",
+    "description": "Apoiado no processo semiótico, que fornece os fundamentos da psicologia cultural, o livro visita a sociedade, seus pequenos grupos e a dinâmica de sua constante transformação, e os indivíduos ou selves através do processo de construção de significados; aborda, assim, a cognição e o afeto como, necessariamente inseridos culturalmente. Aborda uma metodologia coerente com princípios metodológicos firmes, ao adotar o significado da metodologia científica, segundo a melhor tradição europeia, que exige coerência entre as bases teóricas propostas e a leitura do mundo empírico. Apresenta, também, uma forma de estudar a cultura na mente das pessoas e na sociedade, através da pesquisa idiográfica de estudos sistemáticos de casos, sejam estes indivíduos ou fatos culturais coletivos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565852258"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8565852253"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AASpDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AASpDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AASpDAAAQBAJ&printsec=frontcover&dq=psicologia&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=AASpDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-AASpDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 92,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 92,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=AASpDAAAQBAJ&rdid=book-AASpDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 92000000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 92000000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fundamentos_da_Psicologia_Cultural-sample-pdf.acsm?id=AASpDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AASpDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Apoiado no processo semiótico, que fornece os fundamentos da psicologia cultural, o livro visita a sociedade, seus pequenos grupos e a dinâmica de sua constante transformação, e os indivíduos ou selves através do processo de ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-AGbCgAAQBAJ",
+   "etag": "PdpyH2aTeG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-AGbCgAAQBAJ",
+   "volumeInfo": {
+    "title": "A psicologia na assistência social: convivendo com a desigualdade",
+    "subtitle": "",
+    "authors": [
+     "Luane Neves Santos"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2015-09-25",
+    "description": "O livro é uma produção que indica as limitações e as dificuldades que a Psicologia tem enfrentado em sua prática na assistência social. A desigualdade social está posta em primeiro plano com um aspecto que exige uma psicologia crítica. A convivência com a desigualdade se dá em vários planos e de várias formas. A autora fala da formação, da prática, das técnicas de trabalho, da vida profissional e dos sentimentos e sofrimentos que cada psicólogo(a) vivencia, quando se ousa estar nestes espaços. Espaços públicos que podem fazer a diferença no desenvolvimento do projeto do compromisso social da psicologia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524924095"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524924098"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-AGbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-AGbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-AGbCgAAQBAJ&pg=PA1&dq=psicologia&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-AGbCgAAQBAJ&dq=psicologia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_psicologia_na_assist%C3%AAncia_social_conv.html?hl=&id=-AGbCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_psicologia_na_assist%C3%AAncia_social_conv-sample-pdf.acsm?id=-AGbCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-AGbCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro é uma produção que indica as limitações e as dificuldades que a Psicologia tem enfrentado em sua prática na assistência social."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sXeHAAAAQBAJ",
+   "etag": "j/+0+2mWh94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sXeHAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Astrologia, Psicologia e os Quatro Elementos",
+    "authors": [
+     "Mary Paterson"
+    ],
+    "publisher": "Editora Pensamento",
+    "publishedDate": "2015-06-16",
+    "description": "Uma fascinante introdução à relação entre astrologia e psicologia moderna, e do uso da astrologia como método prático para compreender de que modo nos sintonizamos com as forças do Universo. Stephen Arroyo explica como a astrologia pode ser um instrumento extremamente útil para a compreensão de nós mesmos e dos outros, além de explicar as técnicas e significados tradicionais de uma perspectiva que abrange a compreensão das energias inerentes a todos os processos da vida. Ao apresentar esse novo modelo da astrologia psicológica, Arroyo oferece instruções práticas para a interpretação de fatores astrológicos com muito mais profundidade do que se costuma encontrar nos manuais de astrologia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531518430"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8531518431"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sXeHAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sXeHAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sXeHAAAAQBAJ&pg=PT44&dq=psicologia&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sXeHAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sXeHAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sXeHAAAAQBAJ&rdid=book-sXeHAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 26500000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 22140000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Astrologia_Psicologia_e_os_Quatro_Elemen-sample-epub.acsm?id=sXeHAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Astrologia_Psicologia_e_os_Quatro_Elemen-sample-pdf.acsm?id=sXeHAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sXeHAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... da pesquisa de Jung sobre os alicerces arquetípicos presentes na mente <br>\nhumana nos levariam a essa resposta, o mesmo ocorrendo com os estudos <br>\nrecentes sobre religião comparada e com algumas áreas da <b>psicologia</b> <br>\nhumanística."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sXeHAAAAQBAJ",
+   "etag": "SbdZ8VH9jTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sXeHAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Astrologia, Psicologia e os Quatro Elementos",
+    "authors": [
+     "Mary Paterson"
+    ],
+    "publisher": "Editora Pensamento",
+    "publishedDate": "2015-06-16",
+    "description": "Uma fascinante introdução à relação entre astrologia e psicologia moderna, e do uso da astrologia como método prático para compreender de que modo nos sintonizamos com as forças do Universo. Stephen Arroyo explica como a astrologia pode ser um instrumento extremamente útil para a compreensão de nós mesmos e dos outros, além de explicar as técnicas e significados tradicionais de uma perspectiva que abrange a compreensão das energias inerentes a todos os processos da vida. Ao apresentar esse novo modelo da astrologia psicológica, Arroyo oferece instruções práticas para a interpretação de fatores astrológicos com muito mais profundidade do que se costuma encontrar nos manuais de astrologia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531518430"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8531518431"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sXeHAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sXeHAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sXeHAAAAQBAJ&pg=PT82&dq=psicologia&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sXeHAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sXeHAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sXeHAAAAQBAJ&rdid=book-sXeHAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 26500000,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 22140000,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Astrologia_Psicologia_e_os_Quatro_Elemen-sample-epub.acsm?id=sXeHAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Astrologia_Psicologia_e_os_Quatro_Elemen-sample-pdf.acsm?id=sXeHAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sXeHAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
