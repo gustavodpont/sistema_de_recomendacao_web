@@ -25,234 +25,28 @@
         <div class="container">
             <div class="row">
                 <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
+                <div class="col-sm-6 col-md-3" ng-repeat="book in books">
                     <!-- Shop Grid Wrapper -->
                     <div class="shop-wrap">
                         <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-01.jpg" class="img-responsive" alt="Shop">
+                        <div class="shop-img-wrap" ng-click="moreDetails(book)">
+                            <img width="500" height="500" src="{{book.image}}" class="img-responsive" alt="Shop"  style="cursor: pointer; height: 300px;">
                         </div><!-- Shop Wraper -->
                         <!-- Shop Detail Wrapper -->
                         <div class="product-details">
                             <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
+                                <h6 class="product-cat"><a href="javascript:void(0);">{{book.category}}</a></h6>
+                                <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(book)">{{book.title}}</a></h5>
                             </div><!-- Shop Detail Wrapper -->
                             <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
+                                <a class="option-btn" href="javascript:void(0);" ng-click="moreDetails(book)"> &plus; </a>
                             </div><!-- Shop btns -->
                         </div><!-- Blog Detail Wrapper -->
                     </div><!-- Blog Wrapper -->
                 </div><!-- Column -->
 
-                <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
-                    <!-- Shop Grid Wrapper -->
-                    <div class="shop-wrap">
-                        <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-02.jpg" class="img-responsive" alt="Shop">
-                            <h6 class="product-label bg-yellow">New</h6>
-                        </div><!-- Shop Wraper -->
-                        <!-- Shop Detail Wrapper -->
-                        <div class="product-details">
-                            <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
-                            </div><!-- Shop Detail Wrapper -->
-                            <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
-                            </div><!-- Shop btns -->
-                        </div><!-- Blog Detail Wrapper -->
-                    </div><!-- Blog Wrapper -->
-                </div><!-- Column -->
-
-                <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
-                    <!-- Shop Grid Wrapper -->
-                    <div class="shop-wrap">
-                        <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-03.jpg" class="img-responsive" alt="Shop">
-                        </div><!-- Shop Wraper -->
-                        <!-- Shop Detail Wrapper -->
-                        <div class="product-details">
-                            <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
-                            </div><!-- Shop Detail Wrapper -->
-                            <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
-                            </div><!-- Shop btns -->
-                        </div><!-- Blog Detail Wrapper -->
-                    </div><!-- Blog Wrapper -->
-                </div><!-- Column -->
-
-                <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
-                    <!-- Shop Grid Wrapper -->
-                    <div class="shop-wrap">
-                        <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-04.jpg" class="img-responsive" alt="Shop">
-                        </div><!-- Shop Wraper -->
-                        <!-- Shop Detail Wrapper -->
-                        <div class="product-details">
-                            <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
-                            </div><!-- Shop Detail Wrapper -->
-                            <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
-                            </div><!-- Shop btns -->
-                        </div><!-- Blog Detail Wrapper -->
-                    </div><!-- Blog Wrapper -->
-                </div><!-- Column -->
             </div><!-- Row -->
 
-
-            <div class="row">
-                <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
-                    <!-- Shop Grid Wrapper -->
-                    <div class="shop-wrap">
-                        <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-05.jpg" class="img-responsive" alt="Shop">
-                            <h6 class="product-label bg-pink">Sold</h6>
-                        </div><!-- Shop Wraper -->
-                        <!-- Shop Detail Wrapper -->
-                        <div class="product-details">
-                            <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
-                            </div><!-- Shop Detail Wrapper -->
-                            <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
-                            </div><!-- Shop btns -->
-                        </div><!-- Blog Detail Wrapper -->
-                    </div><!-- Blog Wrapper -->
-                </div><!-- Column -->
-
-                <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
-                    <!-- Shop Grid Wrapper -->
-                    <div class="shop-wrap">
-                        <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-06.jpg" class="img-responsive" alt="Shop">
-                        </div><!-- Shop Wraper -->
-                        <!-- Shop Detail Wrapper -->
-                        <div class="product-details">
-                            <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
-                            </div><!-- Shop Detail Wrapper -->
-                            <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
-                            </div><!-- Shop btns -->
-                        </div><!-- Blog Detail Wrapper -->
-                    </div><!-- Blog Wrapper -->
-                </div><!-- Column -->
-
-                <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
-                    <!-- Shop Grid Wrapper -->
-                    <div class="shop-wrap">
-                        <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-07.jpg" class="img-responsive" alt="Shop">
-                        </div><!-- Shop Wraper -->
-                        <!-- Shop Detail Wrapper -->
-                        <div class="product-details">
-                            <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
-                            </div><!-- Shop Detail Wrapper -->
-                            <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
-                            </div><!-- Shop btns -->
-                        </div><!-- Blog Detail Wrapper -->
-                    </div><!-- Blog Wrapper -->
-                </div><!-- Column -->
-                <!-- Item Begins -->
-                <div class="col-sm-6 col-md-3">
-                    <!-- Shop Grid Wrapper -->
-                    <div class="shop-wrap">
-                        <!-- Shop Image Wrapper -->
-                        <div class="shop-img-wrap">
-                            <img width="500" height="500" src="images/shop/shop-08.jpg" class="img-responsive" alt="Shop">
-                        </div><!-- Shop Wraper -->
-                        <!-- Shop Detail Wrapper -->
-                        <div class="product-details">
-                            <div class="shop-title-wrap">
-                                <h6 class="product-cat"><a href="#">Stories</a></h6>
-                                <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
-                            </div><!-- Shop Detail Wrapper -->
-                            <div class="shop-btns">
-                                <a class="option-btn" href="#"> &plus; </a>
-                                <ul class="shop-meta">
-                                    <li><a href="#" title="Add to cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="View More"><i class="fa fa-eye" aria-hidden="true"></i></a></li>
-                                    <li><a href="#" title="Added to wishlist"><i class="fa fa-heart" aria-hidden="true"></i></a></li>
-                                </ul><!-- Blog Meta -->
-                            </div><!-- Shop btns -->
-                        </div><!-- Blog Detail Wrapper -->
-                    </div><!-- Blog Wrapper -->
-                </div><!-- Column -->
-            </div><!-- Row -->
-
-            <!-- Pagination -->
-            <div class="row">
-                <div class="col-sm-12">
-                    <nav class="text-center">
-                        <ul class="pagination">
-                            <li><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
-                            <li><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#">4</a></li>
-                            <li><a href="#">5</a></li>
-                            <li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
-                        </ul>
-                    </nav><!-- Pagination -->
-                </div><!-- Column -->
-            </div><!-- Row -->
         </div><!-- Container -->
     </div><!-- Page Default -->
 </div><!-- Page Main -->

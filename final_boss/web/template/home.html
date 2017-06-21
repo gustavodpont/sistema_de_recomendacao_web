@@ -14,106 +14,33 @@
                         </div>
 
                         <div class="row shop-sm-col">
-                            <!-- Item Begins -->
-                            <div class="col-sm-4">
+
+                            <div class="col-sm-4" ng-repeat="bookRec in booksRecomendados">
                                 <!-- Shop Grid Wrapper -->
                                 <div class="shop-wrap">
                                     <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-01.jpg"
-                                             class="img-responsive" alt="Shop">
+                                    <div class="shop-img-wrap" ng-click="moreDetails(bookRec)">
+                                        <img width="500" height="500" src="{{bookRec.image}}" class="img-responsive" alt="Shop" style="height: 300px; cursor: pointer;">
                                     </div><!-- Shop Wraper -->
                                     <!-- Shop Detail Wrapper -->
                                     <div class="product-details">
                                         <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">Color</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">The art of Niko</a></h5>
+                                            <h6 class="product-cat"><a href="javascript:void(0);" ng-click="moreDetails(bookRec)">{{bookRec.category}}</a></h6>
+                                            <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(bookRec)">{{bookRec.title}}</a></h5>
                                         </div><!-- Shop Detail Wrapper -->
                                         <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
+                                            <a class="option-btn" href="javascript:void(0);" ng-click="moreDetails(bookRec)"> &plus; </a>
                                         </div><!-- Shop btns -->
                                     </div><!-- Blog Detail Wrapper -->
                                 </div><!-- Blog Wrapper -->
                             </div><!-- Column -->
 
-                            <!-- Item Begins -->
-                            <div class="col-sm-4">
-                                <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
-                                    <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-02.jpg"
-                                             class="img-responsive" alt="Shop">
-                                        <h6 class="product-label bg-yellow">Novo</h6>
-                                    </div><!-- Shop Wraper -->
-                                    <!-- Shop Detail Wrapper -->
-                                    <div class="product-details">
-                                        <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">Psd</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">Wake up</a></h5>
-                                        </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
-                                        </div><!-- Shop btns -->
-                                    </div><!-- Blog Detail Wrapper -->
-                                </div><!-- Blog Wrapper -->
-                            </div><!-- Column -->
-
-                            <!-- Item Begins -->
-                            <div class="col-sm-4">
-                                <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
-                                    <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-03.jpg"
-                                             class="img-responsive" alt="Shop">
-                                    </div><!-- Shop Wraper -->
-                                    <!-- Shop Detail Wrapper -->
-                                    <div class="product-details">
-                                        <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">HTML5</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">Responsive Design</a></h5>
-                                        </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
-                                        </div><!-- Shop btns -->
-                                    </div><!-- Blog Detail Wrapper -->
-                                </div><!-- Blog Wrapper -->
-                            </div><!-- Column -->
                         </div><!-- Row -->
                     </div><!-- Tab news -->
 
-                    <div class="ad margin-top-30"><a href="#"><img alt="ad" height="200" width="1200"
-                                                                   class="img-responsive"
-                                                                   src="images/banner/ad-03.jpg"></a></div>
-
+                    <div class="ad margin-top-30"><a href="javascript:void(0);">
+                        <img alt="ad" height="200" width="1200"class="img-responsive" src="images/banner/ad-03.jpg"></a>
+                    </div>
 
                     <div class="tab-news margin-top-40">
                         <!-- Title -->
@@ -123,184 +50,21 @@
 
                         <div class="row shop-sm-col">
                             <!-- Item Begins -->
-                            <div class="col-sm-4">
+                            <div class="col-sm-4" ng-repeat="book in books">
                                 <!-- Shop Grid Wrapper -->
                                 <div class="shop-wrap">
                                     <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-04.jpg"
-                                             class="img-responsive" alt="Shop">
+                                    <div class="shop-img-wrap" ng-click="moreDetails(book)">
+                                        <img src="{{book.image}}" class="img-responsive" alt="Shop" style="cursor: pointer; width: 500px;height: 400px;">
                                     </div><!-- Shop Wraper -->
                                     <!-- Shop Detail Wrapper -->
                                     <div class="product-details">
                                         <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">Color</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">The Litle Black</a></h5>
+                                            <h6 class="product-cat"><a href="javascript:void(0);">{{book.category}}</a></h6>
+                                            <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(book)">{{book.title}}</a></h5>
                                         </div><!-- Shop Detail Wrapper -->
                                         <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
-                                        </div><!-- Shop btns -->
-                                    </div><!-- Blog Detail Wrapper -->
-                                </div><!-- Blog Wrapper -->
-                            </div><!-- Column -->
-
-                            <!-- Item Begins -->
-                            <div class="col-sm-4">
-                                <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
-                                    <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-05.jpg"
-                                             class="img-responsive" alt="Shop">
-                                        <h6 class="product-label bg-yellow">Novo</h6>
-                                    </div><!-- Shop Wraper -->
-                                    <!-- Shop Detail Wrapper -->
-                                    <div class="product-details">
-                                        <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">Psd</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">Css Style Sheet</a></h5>
-                                        </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
-                                        </div><!-- Shop btns -->
-                                    </div><!-- Blog Detail Wrapper -->
-                                </div><!-- Blog Wrapper -->
-                            </div><!-- Column -->
-
-                            <!-- Item Begins -->
-                            <div class="col-sm-4">
-                                <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
-                                    <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-06.jpg"
-                                             class="img-responsive" alt="Shop">
-                                    </div><!-- Shop Wraper -->
-                                    <!-- Shop Detail Wrapper -->
-                                    <div class="product-details">
-                                        <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">HTML5</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">Tools</a></h5>
-                                        </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
-                                        </div><!-- Shop btns -->
-                                    </div><!-- Blog Detail Wrapper -->
-                                </div><!-- Blog Wrapper -->
-                            </div><!-- Column -->
-
-                            <div class="col-sm-4">
-                                <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
-                                    <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-06.jpg"
-                                             class="img-responsive" alt="Shop">
-                                    </div><!-- Shop Wraper -->
-                                    <!-- Shop Detail Wrapper -->
-                                    <div class="product-details">
-                                        <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">HTML5</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">Tools</a></h5>
-                                        </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
-                                        </div><!-- Shop btns -->
-                                    </div><!-- Blog Detail Wrapper -->
-                                </div><!-- Blog Wrapper -->
-                            </div><!-- Column -->
-
-                            <div class="col-sm-4">
-                                <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
-                                    <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-06.jpg"
-                                             class="img-responsive" alt="Shop">
-                                    </div><!-- Shop Wraper -->
-                                    <!-- Shop Detail Wrapper -->
-                                    <div class="product-details">
-                                        <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">HTML5</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">Tools</a></h5>
-                                        </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
-                                        </div><!-- Shop btns -->
-                                    </div><!-- Blog Detail Wrapper -->
-                                </div><!-- Blog Wrapper -->
-                            </div><!-- Column -->
-
-                            <div class="col-sm-4">
-                                <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
-                                    <!-- Shop Image Wrapper -->
-                                    <div class="shop-img-wrap">
-                                        <img width="500" height="500" src="images/shop/shop-06.jpg"
-                                             class="img-responsive" alt="Shop">
-                                    </div><!-- Shop Wraper -->
-                                    <!-- Shop Detail Wrapper -->
-                                    <div class="product-details">
-                                        <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="#">HTML5</a></h6>
-                                            <h5 class="product-name"><a ui-sref="detail">Tools</a></h5>
-                                        </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="#"> &plus; </a>
-                                            <ul class="shop-meta">
-                                                <li><a href="#" title="Adicionar"><i class="fa fa-shopping-cart"
-                                                                                     aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Ver Mais"><i class="fa fa-eye"
-                                                                                    aria-hidden="true"></i></a></li>
-                                                <li><a href="#" title="Lista de Desejos"><i class="fa fa-heart"
-                                                                                            aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul><!-- Blog Meta -->
+                                            <a class="option-btn" href="javascript:void(0);" ng-click="moreDetails(book)"> &plus; </a>
                                         </div><!-- Shop btns -->
                                     </div><!-- Blog Detail Wrapper -->
                                 </div><!-- Blog Wrapper -->

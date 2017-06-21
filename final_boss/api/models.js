@@ -12,7 +12,7 @@ exports.register = function (server, options, next) {
         price: Number,
         rank: Number,
         votes: Number,
-        images: [String],
+        image: String,
         informations: String,
     });
 

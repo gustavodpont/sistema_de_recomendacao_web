@@ -26,14 +26,10 @@
         <div class="container">
 
             <div class="row shop-forms">
-                <div class="col-sm-8">
-                    <div class="content-box shadow bg-white">
+                <div class="col-sm-12">
+                    <div class="content-box shadow bg-white" ng-show="userLog">
+                    <!--<div class="content-box shadow bg-white" ng-show="!userLog">-->
                         <p>Usuario não Logado <a ui-sref="login">Clique aqui para fazer o Login</a></p>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="content-box shadow bg-white">
-                        <p>Tem um Cupom de Desconto? <a href="shop-login.html">Clique Aqui</a></p>
                     </div>
                 </div>
             </div>
@@ -44,7 +40,7 @@
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="javascript:void(0);">
                                         Endereço de Entrega
                                     </a>
                                 </h4>
@@ -97,136 +93,19 @@
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                                        Revisar e Pagar
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="javascript:void(0);">
+                                        Método de Pagamento
                                     </a>
                                 </h4>
                             </div>
                             <div id="collapseThree" class="accordion-body">
                                 <div class="panel-body">
-                                    <table cellspacing="0" class="shop_table cart">
-                                        <thead>
-                                        <tr>
-                                            <th class="product-thumbnail">&nbsp;
-
-                                            </th>
-                                            <th class="product-name">
-                                                Produto
-                                            </th>
-                                            <th class="product-price">
-                                                Preço
-                                            </th>
-                                            <th class="product-quantity">
-                                                Quantidade
-                                            </th>
-                                            <th class="product-subtotal">
-                                                Total
-                                            </th>
-                                        </tr>
-                                        </thead>
-                                        <tbody>
-                                        <tr class="cart_table_item">
-                                            <td class="product-thumbnail">
-                                                <a href="shop-product-sidebar.html">
-                                                    <img width="100" height="100" alt="" class="img-responsive" src="images/default/product-thumb-01.jpg">
-                                                </a>
-                                            </td>
-                                            <td class="product-name">
-                                                <a href="shop-product-sidebar.html">Responsive Design</a>
-                                            </td>
-                                            <td class="product-price">
-                                                <span class="amount">$48</span>
-                                            </td>
-                                            <td class="product-quantity">
-                                                2
-                                            </td>
-                                            <td class="product-subtotal">
-                                                <span class="amount">$96</span>
-                                            </td>
-                                        </tr>
-                                        <tr class="cart_table_item">
-                                            <td class="product-thumbnail">
-                                                <a href="shop-product-sidebar.html">
-                                                    <img width="100" height="100" alt="" class="img-responsive" src="images/default/product-thumb-02.jpg">
-                                                </a>
-                                            </td>
-                                            <td class="product-name">
-                                                <a href="shop-product-sidebar.html">Art of niko</a>
-                                            </td>
-                                            <td class="product-price">
-                                                <span class="amount">$15</span>
-                                            </td>
-                                            <td class="product-quantity">
-                                                3
-                                            </td>
-                                            <td class="product-subtotal">
-                                                <span class="amount">$45</span>
-                                            </td>
-                                        </tr>
-                                        <tr class="cart_table_item">
-                                            <td class="product-thumbnail">
-                                                <a href="shop-product-sidebar.html">
-                                                    <img width="100" height="100" alt="" class="img-responsive" src="images/default/product-thumb-03.jpg">
-                                                </a>
-                                            </td>
-                                            <td class="product-name">
-                                                <a href="shop-product-sidebar.html">Tools</a>
-                                            </td>
-                                            <td class="product-price">
-                                                <span class="amount">$32</span>
-                                            </td>
-                                            <td class="product-quantity">
-                                                1
-                                            </td>
-                                            <td class="product-subtotal">
-                                                <span class="amount">$32</span>
-                                            </td>
-                                        </tr>
-                                        </tbody>
-                                    </table>
-
-                                    <hr class="lg">
-
-                                    <h4>Total</h4>
-                                    <table cellspacing="0" class="cart-totals">
-                                        <tbody>
-                                        <tr class="cart-subtotal">
-                                            <th>
-                                                <strong>Subtotal</strong>
-                                            </th>
-                                            <td>
-                                                <strong><span class="amount">$173</span></strong>
-                                            </td>
-                                        </tr>
-                                        <tr class="shipping">
-                                            <th>
-                                                Frete
-                                            </th>
-                                            <td>
-                                                Frete Grátis
-                                            </td>
-                                        </tr>
-                                        <tr class="total">
-                                            <th>
-                                                <strong>Total do Pedido</strong>
-                                            </th>
-                                            <td>
-                                                <strong><span class="amount">$173</span></strong>
-                                            </td>
-                                        </tr>
-                                        </tbody>
-                                    </table>
-
-                                    <hr class="lg">
-
-                                    <h4>Método de Pagamento</h4>
-
                                     <form action="" id="" method="post">
                                         <div class="row">
                                             <div class="col-md-12">
 												<span class="remember-box checkbox">
 													<label>
-														<input type="checkbox" checked="checked">Boleto Bancario
+														<input type="radio" checked="checked"> &nbsp; Boleto Bancario
 													</label>
 												</span>
                                             </div>
@@ -235,7 +114,7 @@
                                             <div class="col-md-12">
 												<span class="remember-box checkbox">
 													<label>
-														<input type="checkbox">Cartao de Credito
+														<input type="radio"> &nbsp; Cartao de Credito
 													</label>
 												</span>
                                             </div>
@@ -244,7 +123,7 @@
                                             <div class="col-md-12">
 												<span class="remember-box checkbox">
 													<label>
-														<input type="checkbox">PagSeguro
+														<input type="radio"> &nbsp; PagSeguro
 													</label>
 												</span>
                                             </div>
@@ -256,7 +135,7 @@
                     </div>
 
                     <div class="actions-continue">
-                        <input type="submit" value="Finalizar Pedido" name="" class="btn btn-lg">
+                        <input type="submit" value="Finalizar Pedido" name="" class="btn btn-lg" ng-disabled="!userLog">
                     </div>
                 </div>
 
