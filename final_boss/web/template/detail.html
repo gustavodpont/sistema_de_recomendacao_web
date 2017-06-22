@@ -32,10 +32,9 @@
                 <div class="col-md-7">
                     <div class="shop-detail-wrap">
                         <h4 class="product-name">{{book.title}}</h4>
-                        <a class="author" href="teacher-single-left.html"><span class="">Por {{book.author}}</span></a>
                         <ul class="review-box">
-                            <li class="rating"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
-                            </li>
+                            <li class="readers"><a class="author"><span class="">Por {{book.author}}</span></a></li>
+                            <li class="rating"><span ng-repeat="r in range(book.rank) track by $index">☆</span></li>
                             <li class="readers">{{book.votes}} Votos</li>
                         </ul>
                         <div class="share">
@@ -47,7 +46,7 @@
                             </ul><!-- Blog Social Share -->
                         </div>
                         <div class="likes">
-                            <h5>Preço: <i>{{book.price}}</i></h5><br>
+                            <h5>Preço: <i>R{{book.price | currency}}</i></h5><br>
                         </div>
                         <p class="margin-top-30">{{book.informations}}</p>
                         <input type="number" ng-model="book.qtd" minlength="1" maxlength="10" style="width:40px; height: 40px;">&nbsp;

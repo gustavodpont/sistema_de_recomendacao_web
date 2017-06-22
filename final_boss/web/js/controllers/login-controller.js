@@ -9,6 +9,17 @@ angular.module('finalboss')
         $scope.errorLogin = {};
         $scope.error = {};
 
+        if(typeof $localStorage.users == "undefined"){
+            $localStorage.users = [];
+        }
+
+
+        /**
+         * Responsavel para criar novos usuarios
+         *
+         * @param newUser
+         * @returns {boolean}
+         */
         $scope.createUser = function (newUser) {
             // CADASTRAR NOVO USUARIO
             if (newUser.pass != newUser.confPass) {
@@ -19,22 +30,25 @@ angular.module('finalboss')
                 return false;
             }
 
-            // newUser.img = "img/template/perfil.jpg";
-            // $localStorage.user = JSON.stringify(newUser);
-            console.log(newUser);
-            // $state.go('personalidade');
-            // $state.go('home', {'usuario' : usuario});
+            $localStorage.users.push(newUser);
             $scope.error = "Cadastro efetuado com sucesso";
         };
 
         $scope.rememberMe = function () {
             if (typeof $localStorage.user != "undefined") {
-                $scope.user = JSON.parse($localStorage.user);
+                $scope.user = $localStorage.user;
             }
         };
 
         $scope.rememberMe();
 
+
+        /**
+         * Responsavel por verificar se o usuario possui cadastro
+         *
+         * @param user
+         * @returns {boolean}
+         */
         $scope.login = function (user) {
 
             if ((typeof user.email == "undefined" ) || (typeof user.pass == "undefined" )) {
@@ -42,18 +56,15 @@ angular.module('finalboss')
                 return false;
             }
 
-            var userId = false;
-            // FAZER REQUISICAO PARA VERIFICAR SE O USUARIO ESTA CADASTRADO
-            // VERIFICAR SE OS DADOS ESTAO CORRETOS
-            console.log(user);
-
-            if (user.remember) {
-                $localStorage.user = JSON.stringify(user);
-            }
-
-            if (userId) {
-                $state.go('home')
-            }
+            angular.forEach($localStorage.users, function (data, key) {
+                if(data.email == user.email && data.pass == user.pass){
+                    user.id = key;
+                    $localStorage.user = user;
+                    $state.go('home');
+                } else {
+                    $scope.errorLogin = "Usuario não encontrado, verificar informações."
+                }
+            });
         };
 
     });

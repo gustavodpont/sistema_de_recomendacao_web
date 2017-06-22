@@ -3349,7 +3349,7 @@ li > .duration {
 	position: relative;
 	margin-bottom: 30px;
 
-	height: 411px;
+	min-height: 440px;
 }
 .shop-wrap .shop-img-wrap img{
 		width: 100%;

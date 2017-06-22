@@ -10,6 +10,13 @@ angular.module('finalboss')
             $scope.book = JSON.parse($localStorage.book);
         }
 
+        if(typeof $localStorage.lastBooks != "undefined" && typeof produto !== "null"){
+            $localStorage.lastBooks.push($scope.book);
+        } else {
+            $localStorage.lastBooks = [];
+            $localStorage.lastBooks.push($scope.book);
+        }
+
         /*
          * Aqui sera exibido apenas 4 itens de acordo com a categoria do livro selecionado atualmente
          */
@@ -37,4 +44,10 @@ angular.module('finalboss')
             $window.scrollTo(0, 0);
             $state.go('home');
         }
+
+        $scope.range = function(n) {
+            var array =  new Array(Math.round(n))
+            return array;
+        };
+
     });

@@ -36,7 +36,7 @@
                         <div class="product-details">
                             <div class="shop-title-wrap">
                                 <h6 class="product-cat"><a href="javascript:void(0);">{{book.category}}</a></h6>
-                                <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(book)">{{book.title}}</a></h5>
+                                <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(book)">{{book.title | limitTo: '60'}}</a></h5>
                             </div><!-- Shop Detail Wrapper -->
                         </div><!-- Blog Detail Wrapper -->
                     </div><!-- Blog Wrapper -->

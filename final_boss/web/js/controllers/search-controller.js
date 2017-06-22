@@ -2,11 +2,28 @@
  * Created by Luan on 17/06/2017.
  */
 angular.module('finalboss')
-    .controller('SearchCtrl', function ($state, $scope, $localStorage, books, $window, $http) {
-
-        var url = "database.json" ;
+    .controller('SearchCtrl', function ($state, $scope, $localStorage, category, $window, $http) {
+        if(category){
+            $localStorage.category = category;
+        } else {
+            category = $localStorage.category;
+        }
+        
+        // var url = "database.json" ;
         // var listBookJson = [];
         $scope.books = [];
+
+        // angular.forEach($localStorage.books,function (data) {
+        //     if( category == data.category ){
+        //         $scope.books.push(data)
+        //     }
+        // });
+
+        var url = "http://localhost:3000/api/books/find?category='"+ category +"'";
+        $http.get(url).then(function (response) {
+            $scope.books = response.data;
+        });
+
         // $http.get(url).then(function(response){
         //     console.log();
         //     var getBooks = response.data;
@@ -35,16 +52,13 @@ angular.module('finalboss')
         //         listBookJson.push( bookFinished );
         //     })
         // });
-
         // console.log(listBookJson);
-        $http.get(url).then(function (response) {
-            $scope.books = response.data;
-        });
-
-
+        // url = 'localhost:3000/api/books';
+        // $http.get(url).then(function (response) {
+        //     $scope.books = response.data;
+        // });
 
         $scope.moreDetails = function (book) {
-            console.log("NIRE");
             $window.scrollTo(0, 0);
             $state.go('detail', {'produto': book});
         };

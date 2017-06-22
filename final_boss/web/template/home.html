@@ -15,7 +15,7 @@
 
                         <div class="row shop-sm-col">
 
-                            <div class="col-sm-4" ng-repeat="bookRec in booksRecomendados">
+                            <div class="col-sm-4" ng-repeat="bookRec in booksRecomendados track by $index" ng-if="bookRec.title">
                                 <!-- Shop Grid Wrapper -->
                                 <div class="shop-wrap">
                                     <!-- Shop Image Wrapper -->
@@ -28,9 +28,6 @@
                                             <h6 class="product-cat"><a href="javascript:void(0);" ng-click="moreDetails(bookRec)">{{bookRec.category}}</a></h6>
                                             <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(bookRec)">{{bookRec.title}}</a></h5>
                                         </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="javascript:void(0);" ng-click="moreDetails(bookRec)"> &plus; </a>
-                                        </div><!-- Shop btns -->
                                     </div><!-- Blog Detail Wrapper -->
                                 </div><!-- Blog Wrapper -->
                             </div><!-- Column -->
@@ -45,14 +42,14 @@
                     <div class="tab-news margin-top-40">
                         <!-- Title -->
                         <div class="title-bg-line">
-                            <h6 class="title"><a href="#">Livros em Destaque</a></h6>
+                            <h6 class="title"><a href="#">Ultimas Novidades</a></h6>
                         </div>
 
                         <div class="row shop-sm-col">
                             <!-- Item Begins -->
-                            <div class="col-sm-4" ng-repeat="book in books">
+                            <div class="col-sm-4" ng-repeat="book in books track by $index">
                                 <!-- Shop Grid Wrapper -->
-                                <div class="shop-wrap">
+                                <div class="shop-wrap" style="height: 520px;">
                                     <!-- Shop Image Wrapper -->
                                     <div class="shop-img-wrap" ng-click="moreDetails(book)">
                                         <img src="{{book.image}}" class="img-responsive" alt="Shop" style="cursor: pointer; width: 500px;height: 400px;">
@@ -61,11 +58,8 @@
                                     <div class="product-details">
                                         <div class="shop-title-wrap">
                                             <h6 class="product-cat"><a href="javascript:void(0);">{{book.category}}</a></h6>
-                                            <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(book)">{{book.title}}</a></h5>
+                                            <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(book)">{{book.title | limitTo: '50'}}</a></h5>
                                         </div><!-- Shop Detail Wrapper -->
-                                        <div class="shop-btns">
-                                            <a class="option-btn" href="javascript:void(0);" ng-click="moreDetails(book)"> &plus; </a>
-                                        </div><!-- Shop btns -->
                                     </div><!-- Blog Detail Wrapper -->
                                 </div><!-- Blog Wrapper -->
                             </div><!-- Column -->

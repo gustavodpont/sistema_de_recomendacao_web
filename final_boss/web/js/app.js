@@ -18,7 +18,13 @@ angular.module('finalboss', ['ui.router', "ngStorage"])
             .state("search", {
                 url: "/search",
                 templateUrl: 'template/search.html',
-                controller: 'SearchCtrl'
+                controller: 'SearchCtrl',
+                params: {category: null},
+                resolve: {
+                    category: function ($stateParams) {
+                        return $stateParams.category;
+                    }
+                }
             })
             .state("login", {
                 url: "/login",

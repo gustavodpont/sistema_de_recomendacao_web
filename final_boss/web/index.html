@@ -59,6 +59,7 @@
     <script src="js/controllers/cart-controller.js"></script>
     <script src="js/controllers/checkout-controller.js"></script>
     <script src="js/controllers/search-controller.js"></script>
+    <script src="js/controllers/menu-controller.js"></script>
     <script src="js/values/book-value.js"></script>
 
 </head>
@@ -103,7 +104,7 @@
             </div>
             <div class="navbar-collapse nav-main-collapse collapse">
                 <div class="container">
-                    <nav class="nav-main mega-menu">
+                    <nav class="nav-main mega-menu" ng-controller="MenuCtrl">
                         <ul class="nav nav-pills nav-main" id="mainMenu">
                             <li class="mega-menu-item">
                                 <a class="" ui-sref="home">
@@ -124,12 +125,12 @@
                                                         <li>
                                                             <span class="mega-menu-sub-title">Literatura</span>
                                                             <ul class="sub-menu">
-                                                                <li><a ui-sref="search">Literatura Brasileira</a></li>
-                                                                <li><a ui-sref="search">Literatura Estrangeira</a></li>
-                                                                <li><a ui-sref="search">Artes</a></li>
-                                                                <li><a ui-sref="search">Biografias</a></li>
-                                                                <li><a ui-sref="search">Poesia</a></li>
-                                                                <li><a ui-sref="search">Infantojuvenis</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Literatura Brasileira')">Literatura Brasileira</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Literatura Estrangeira')">Literatura Estrangeira</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Artes')">Artes</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Biografias')">Biografias</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Poesia')">Poesia</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Infantojuvenis')">Infantojuvenis</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -140,14 +141,14 @@
                                                         <li>
                                                             <span class="mega-menu-sub-title">Técnicos e Profissionais</span>
                                                             <ul class="sub-menu">
-                                                                <li><a ui-sref="search">Administração</a></li>
-                                                                <li><a ui-sref="search">Antropologia</a></li>
-                                                                <li><a ui-sref="search">Engenharia</a></li>
-                                                                <li><a ui-sref="search">Direito</a></li>
-                                                                <li><a ui-sref="search">Informática</a></li>
-                                                                <li><a ui-sref="search">Ciência Política</a></li>
-                                                                <li><a ui-sref="search">Pedagogia</a></li>
-                                                                <li><a ui-sref="search">Psicologia</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Administração')">Administração</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Antropologia')">Antropologia</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Engenharia')">Engenharia</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Direito')">Direito</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Tecnologia')">Informática</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Ciencia Politica')">Ciência Política</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Pedagogia')">Pedagogia</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Psicologia')">Psicologia</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -157,9 +158,9 @@
                                                         <li>
                                                             <span class="mega-menu-sub-title">Equilíbrio Pessoal</span>
                                                             <ul class="sub-menu">
-                                                                <li><a ui-sref="search">Autoajuda</a></li>
-                                                                <li><a ui-sref="search">Esoterismo</a></li>
-                                                                <li><a ui-sref="search">Religião</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Autoajuda')">Autoajuda</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Esoterismo')">Esoterismo</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Religiao')">Religião</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -169,9 +170,9 @@
                                                         <li>
                                                             <span class="mega-menu-sub-title">Periódicos</span>
                                                             <ul class="sub-menu">
-                                                                <li><a ui-sref="search">Gibis</a></li>
-                                                                <li><a ui-sref="search">Revistas</a></li>
-                                                                <li><a ui-sref="search">Mangás</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Gibi')">Gibis</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Revista')">Revistas</a></li>
+                                                                <li><a href="javascript:void(0);" ng-click="goSearch('Manga')">Mangás</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -318,7 +319,7 @@
                         </div><!-- Copy Right Logo -->
                         <!-- Copy Right Content -->
                         <div class="col-md-6">
-                            <p>&copy; Copyright 2017. Todos os Direitos Reservados. | By <a href="javascript:void(0);"
+                            <p>&copy; Copyright 2017. Todos os Direitos Reservados. | By <a href="javascript:void(0);" ng-click="goSearch('')"
                                                                                             title="FinalBoss">Final Boss</a></p>
                         </div><!-- Copy Right Content -->
                         <!-- Copy Right Content -->
