@@ -10,6 +10,7 @@ exports.register = function (server, options, next) {
         title: String,
         description: String,
         author: String,
+        category: String,
         price: Number,
         rank: Number,
         votes: Number,

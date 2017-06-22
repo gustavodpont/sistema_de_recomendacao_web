@@ -11,7 +11,10 @@ exports.register = function(server, options, next){
             method: 'GET',
             path: '/api/books',
             config: {
-                auth: 'jwt',
+                auth: {
+                    strategy: 'jwt',
+                    mode: 'try'
+                },
                 cors: true
             },
             handler: (request, reply) => {
@@ -34,26 +37,29 @@ exports.register = function(server, options, next){
 
         {
             method: 'GET',
-            path: '/api/books/{bookId}',
+            path: '/api/books/{bookCategory}',
             config: {
-                auth: 'jwt',
+                auth: {
+                    strategy: 'jwt',
+                    mode: 'try'
+                },
                 validate: {
                     params: {
-                        bookId: Joi.string().required()
+                        bookCategory: Joi.string().required()
                     }
                 },
                 cors: true
             },
             handler: (request, reply) => {
 
-                request.models.Book.findById(Mongoose.Types.ObjectId(request.params.bookId))
-                    .then((book) => {
+                request.models.Book.find({ category: request.params.bookCategory })
+                    .then((books) => {
 
-                        if (!book) {
+                        if (!books) {
                             return reply(Boom.notFound());
                         }
 
-                        return reply(book);
+                        return reply(books);
                     })
                     .catch((err) => {
 
