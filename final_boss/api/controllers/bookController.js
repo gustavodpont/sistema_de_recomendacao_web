@@ -37,22 +37,22 @@ exports.register = function(server, options, next){
 
         {
             method: 'GET',
-            path: '/api/books/{bookCategory}',
+            path: '/api/books/find',
             config: {
                 auth: {
                     strategy: 'jwt',
                     mode: 'try'
                 },
                 validate: {
-                    params: {
-                        bookCategory: Joi.string().required()
+                    query: {
+                        category: Joi.string().required()
                     }
                 },
                 cors: true
             },
             handler: (request, reply) => {
 
-                request.models.Book.find({ category: request.params.bookCategory })
+                request.models.Book.find({ category: request.query.category })
                     .then((books) => {
 
                         if (!books) {
