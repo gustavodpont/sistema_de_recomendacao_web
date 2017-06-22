@@ -44,8 +44,8 @@
                             <label for="finalidade">Finalidade:</label>
                             <select class="form-control" id="finalidade">
                                 <option>Selecione uma finalidade...</option>
-                                <option>Trabalho</option>
-                                <option>Gammer</option>
+                                <option value="Trabalho">Trabalho</option>
+                                <option value="Gammer">Gammer</option>
                             </select>
                         </div>
 
@@ -71,7 +71,7 @@
             
             <hr>
             
-            <div class="row" id='resultado-busca'>
+            <div class="row" id="resultado-busca">
 
             </div>
             
