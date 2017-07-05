@@ -757,26 +757,6 @@ const books = [
         category: "Infantojuvenis",
         image: "http://books.google.com/books/content?id=MsyeDgAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE718Ff8jZo5iNBbGNn2J1xoy1vTt8jHxZKrEI2xSWKrNCRg7HRBP7ITmvbcetLfM8-8GbXCVy05qC4Idqsqah7s_cgCa2obd4zIjoP7qI-5U_uZFTCNlZ_VqqAigGEbF6QqpaWl8&source=gbs_api",
         informations: "Como acabará esta história? Um conto divertido e sério ao mesmo tempo, que fará as crianças rir e pensar.Maria João Lopo de Carvalho licenciou-se em Línguas e Literaturas Modernas."
-    },{
-        title: "",
-        description: "",
-        author: "",
-        price: 29.90,
-        rank: 3.5,
-        votes: 20,
-        category: "Infantojuvenis",
-        image: "",
-        informations: ""
-    },{
-        title: "",
-        description: "",
-        author: "",
-        price: 29.90,
-        rank: 3.5,
-        votes: 20,
-        category: "Infantojuvenis",
-        image: "",
-        informations: ""
     }
 ];
 
