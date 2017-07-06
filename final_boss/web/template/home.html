@@ -25,7 +25,10 @@
                                     <!-- Shop Detail Wrapper -->
                                     <div class="product-details">
                                         <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="javascript:void(0);" ng-click="moreDetails(bookRec)">{{bookRec.category}}</a></h6>
+                                            <h6 class="product-cat"><a href="javascript:void(0);" ng-click="moreDetails(bookRec)">{{bookRec.category}}</a>
+                                                | <span ng-repeat="r in range(book.rank) track by $index">☆</span>
+                                                | {{bookRec.votes}} Votos
+                                            </h6>
                                             <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(bookRec)">{{bookRec.title}}</a></h5>
                                         </div><!-- Shop Detail Wrapper -->
                                     </div><!-- Blog Detail Wrapper -->
@@ -57,7 +60,10 @@
                                     <!-- Shop Detail Wrapper -->
                                     <div class="product-details">
                                         <div class="shop-title-wrap">
-                                            <h6 class="product-cat"><a href="javascript:void(0);">{{book.category}}</a></h6>
+                                            <h6 class="product-cat"><a href="javascript:void(0);">{{book.category}}</a>
+                                                | <span ng-repeat="r in range(book.rank) track by $index">☆</span>
+                                                | {{book.votes}} Votos
+                                            </h6>
                                             <h5 class="product-name"><a href="javascript:void(0);" ng-click="moreDetails(book)">{{book.title | limitTo: '50'}}</a></h5>
                                         </div><!-- Shop Detail Wrapper -->
                                     </div><!-- Blog Detail Wrapper -->

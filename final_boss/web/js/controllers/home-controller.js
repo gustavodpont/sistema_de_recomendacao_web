@@ -7,8 +7,8 @@ angular.module('finalboss')
         $scope.books = ['=)'];
         $scope.booksRecomendados = [];
         var url = 'http://localhost:3000/api/books';
-        $http.get('database.json').then(function (response) {
-            // $http.get(url).then(function (response) {
+        // $http.get('database.json').then(function (response) {
+        $http.get(url).then(function (response) {
             $localStorage.books = response.data;
         });
 
@@ -45,7 +45,7 @@ angular.module('finalboss')
             //     });
             //
             // }
-        }
+        };
 
         $scope.lastRecomended = $scope.booksRecomendados;
 
@@ -65,4 +65,8 @@ angular.module('finalboss')
             $state.go('detail', {'produto': book});
         };
 
+        $scope.range = function(n) {
+            var array =  new Array(Math.round(n))
+            return array;
+        };
     });

@@ -22,6 +22,7 @@ angular.module('finalboss')
         var url = "http://localhost:3000/api/books/find?category='"+ category +"'";
         $http.get(url).then(function (response) {
             $scope.books = response.data;
+            $localStorage.booksRecomendados = response.data;
         });
 
         // $http.get(url).then(function(response){
@@ -61,6 +62,11 @@ angular.module('finalboss')
         $scope.moreDetails = function (book) {
             $window.scrollTo(0, 0);
             $state.go('detail', {'produto': book});
+        };
+
+        $scope.range = function(n) {
+            var array =  new Array(Math.round(n))
+            return array;
         };
 
     });

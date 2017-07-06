@@ -21,7 +21,7 @@ angular.module('finalboss')
          * Aqui sera exibido apenas 4 itens de acordo com a categoria do livro selecionado atualmente
          */
         $scope.books = [];
-        angular.forEach(books, function (value, key) {
+        angular.forEach($localStorage.booksRecomendados, function (value, key) {
             if(key >= 4){
                 return false;
             }
