@@ -13,13 +13,16 @@
     "good": "^7.2.0",
     "hapi": "^16.3.0",
     "hapi-auth-jwt2": "^7.2.4",
-    "hoek": "^4.1.1",
+    "hoek": "^4.2.1",
     "joi": "^10.5.2",
     "jsonwebtoken": "^7.4.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
     "mongoose": "^4.10.4",
     "mongoose-bcrypt": "^1.5.0",
     "mongoose-beautiful-unique-validation": "^5.1.1",
     "mongoose-delete": "^0.3.4",
+    "mpath": "^0.5.1",
     "promise": "^8.0.0"
   }
 }
